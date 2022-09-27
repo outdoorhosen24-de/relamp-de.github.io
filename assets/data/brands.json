@@ -1,17 +1,45 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "paulmann",
+        "name": "Paulmann",
+        "slug": "paulmann",
+        "productCategory": "Paulmann",
+        "localThumb": "/assets/images/hersteller/paulmann.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "keuco",
+        "name": "Keuco",
+        "slug": "keuco",
+        "productCategory": "Keuco",
+        "localThumb": "/assets/images/hersteller/keuco.webp"
+    },
+    {
+        "key": "philips hue",
+        "name": "Philips Hue",
+        "slug": "philips-hue",
+        "productCategory": "Philips Hue",
+        "localThumb": "/assets/images/hersteller/philips-hue.webp"
+    },
+    {
+        "key": "abus",
+        "name": "Abus",
+        "slug": "abus",
+        "productCategory": "Abus",
+        "localThumb": "/assets/images/hersteller/abus.webp"
+    },
+    {
+        "key": "steinel",
+        "name": "Steinel",
+        "slug": "steinel",
+        "productCategory": "Steinel",
+        "localThumb": "/assets/images/hersteller/steinel.webp"
+    },
+    {
+        "key": "globo",
+        "name": "Globo",
+        "slug": "globo",
+        "productCategory": "Globo",
+        "localThumb": "/assets/images/hersteller/globo.webp"
     },
     {
         "key": "sonstige",
@@ -21,11 +49,179 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "näve",
+        "name": "Näve",
+        "slug": "naeve",
+        "productCategory": "Näve",
+        "localThumb": "/assets/images/hersteller/naeve.webp"
+    },
+    {
+        "key": "leuchten direkt",
+        "name": "Leuchten Direkt",
+        "slug": "leuchten-direkt",
+        "productCategory": "Leuchten Direkt",
+        "localThumb": "/assets/images/hersteller/leuchten-direkt.webp"
+    },
+    {
+        "key": "osram",
+        "name": "Osram",
+        "slug": "osram",
+        "productCategory": "Osram",
+        "localThumb": "/assets/images/hersteller/osram.webp"
+    },
+    {
+        "key": "trio",
+        "name": "Trio",
+        "slug": "trio",
+        "productCategory": "Trio",
+        "localThumb": "/assets/images/hersteller/trio.webp"
+    },
+    {
+        "key": "reality by trio",
+        "name": "Reality by Trio",
+        "slug": "reality-by-trio",
+        "productCategory": "Reality by Trio",
+        "localThumb": "/assets/images/hersteller/reality-by-trio.webp"
+    },
+    {
+        "key": "rev",
+        "name": "REV",
+        "slug": "rev",
+        "productCategory": "REV",
+        "localThumb": "/assets/images/hersteller/rev.webp"
+    },
+    {
+        "key": "briloner",
+        "name": "Briloner",
+        "slug": "briloner",
+        "productCategory": "Briloner",
+        "localThumb": "/assets/images/hersteller/briloner.webp"
+    },
+    {
+        "key": "wofi",
+        "name": "Wofi",
+        "slug": "wofi",
+        "productCategory": "Wofi",
+        "localThumb": "/assets/images/hersteller/wofi.webp"
+    },
+    {
+        "key": "philips",
+        "name": "Philips",
+        "slug": "philips",
+        "productCategory": "Philips",
+        "localThumb": "/assets/images/hersteller/philips.webp"
+    },
+    {
+        "key": "ledvance",
+        "name": "LEDVANCE",
+        "slug": "ledvance",
+        "productCategory": "LEDVANCE",
+        "localThumb": "/assets/images/hersteller/ledvance.webp"
+    },
+    {
+        "key": "eglo",
+        "name": "Eglo",
+        "slug": "eglo",
+        "productCategory": "Eglo",
+        "localThumb": "/assets/images/hersteller/eglo.webp"
+    },
+    {
+        "key": "paul neuhaus",
+        "name": "Paul Neuhaus",
+        "slug": "paul-neuhaus",
+        "productCategory": "Paul Neuhaus",
+        "localThumb": "/assets/images/hersteller/paul-neuhaus.webp"
+    },
+    {
+        "key": "müller",
+        "name": "Müller",
+        "slug": "mueller",
+        "productCategory": "Müller",
+        "localThumb": "/assets/images/hersteller/mueller.webp"
+    },
+    {
+        "key": "brilliant",
+        "name": "Brilliant",
+        "slug": "brilliant",
+        "productCategory": "Brilliant",
+        "localThumb": "/assets/images/hersteller/brilliant.webp"
+    },
+    {
+        "key": "mr. beams",
+        "name": "Mr. Beams",
+        "slug": "mr-beams",
+        "productCategory": "Mr. Beams",
+        "localThumb": "/assets/images/hersteller/mr-beams.webp"
+    },
+    {
+        "key": "brilo",
+        "name": "Brilo",
+        "slug": "brilo",
+        "productCategory": "Brilo",
+        "localThumb": "/assets/images/hersteller/brilo.webp"
+    },
+    {
+        "key": "leuchtendirekt by neuhaus",
+        "name": "LeuchtenDirekt by Neuhaus",
+        "slug": "leuchtendirekt-by-neuhaus",
+        "productCategory": "LeuchtenDirekt by Neuhaus",
+        "localThumb": "/assets/images/hersteller/leuchtendirekt-by-neuhaus.webp"
+    },
+    {
+        "key": "reality",
+        "name": "Reality",
+        "slug": "reality",
+        "productCategory": "Reality",
+        "localThumb": "/assets/images/hersteller/reality.webp"
+    },
+    {
+        "key": "luce design",
+        "name": "Luce Design",
+        "slug": "luce-design",
+        "productCategory": "Luce Design",
+        "localThumb": "/assets/images/hersteller/luce-design.webp"
+    },
+    {
+        "key": "intec",
+        "name": "INTEC",
+        "slug": "intec",
+        "productCategory": "INTEC",
+        "localThumb": "/assets/images/hersteller/intec.webp"
+    },
+    {
+        "key": "fischer & honsel",
+        "name": "Fischer & Honsel",
+        "slug": "fischer-honsel",
+        "productCategory": "Fischer & Honsel",
+        "localThumb": "/assets/images/hersteller/fischer-honsel.webp"
+    },
+    {
+        "key": "bellalux",
+        "name": "Bellalux",
+        "slug": "bellalux",
+        "productCategory": "Bellalux",
+        "localThumb": "/assets/images/hersteller/bellalux.webp"
+    },
+    {
+        "key": "easy connect",
+        "name": "Easy Connect",
+        "slug": "easy-connect",
+        "productCategory": "Easy Connect",
+        "localThumb": "/assets/images/hersteller/easy-connect.webp"
+    },
+    {
+        "key": "lutec",
+        "name": "LUTEC",
+        "slug": "lutec",
+        "productCategory": "LUTEC",
+        "localThumb": "/assets/images/hersteller/lutec.webp"
+    },
+    {
+        "key": "action by wofi",
+        "name": "Action by Wofi",
+        "slug": "action-by-wofi",
+        "productCategory": "Action by Wofi",
+        "localThumb": "/assets/images/hersteller/action-by-wofi.webp"
     },
     {
         "key": "obi",
@@ -35,25 +231,11 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
-    },
-    {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
-    },
-    {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "konstsmide",
+        "name": "Konstsmide",
+        "slug": "konstsmide",
+        "productCategory": "Konstsmide",
+        "localThumb": "/assets/images/hersteller/konstsmide.webp"
     },
     {
         "key": "cmi",
@@ -63,24 +245,122 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "aeg",
+        "name": "AEG",
+        "slug": "aeg",
+        "productCategory": "AEG",
+        "localThumb": "/assets/images/hersteller/aeg.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "telefunken",
+        "name": "Telefunken",
+        "slug": "telefunken",
+        "productCategory": "Telefunken",
+        "localThumb": "/assets/images/hersteller/telefunken.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "ritos",
+        "name": "Ritos",
+        "slug": "ritos",
+        "productCategory": "Ritos",
+        "localThumb": "/assets/images/hersteller/ritos.webp"
+    },
+    {
+        "key": "p&s",
+        "name": "P&S",
+        "slug": "p-s",
+        "productCategory": "P&S",
+        "localThumb": "/assets/images/hersteller/p-s.webp"
+    },
+    {
+        "key": "massive",
+        "name": "Massive",
+        "slug": "massive",
+        "productCategory": "Massive",
+        "localThumb": "/assets/images/hersteller/massive.webp"
+    },
+    {
+        "key": "brennenstuhl",
+        "name": "Brennenstuhl",
+        "slug": "brennenstuhl",
+        "productCategory": "Brennenstuhl",
+        "localThumb": "/assets/images/hersteller/brennenstuhl.webp"
+    },
+    {
+        "key": "rl",
+        "name": "RL",
+        "slug": "rl",
+        "productCategory": "RL",
+        "localThumb": "/assets/images/hersteller/rl.webp"
+    },
+    {
+        "key": "best of home",
+        "name": "best of home",
+        "slug": "best-of-home",
+        "productCategory": "best of home",
+        "localThumb": "/assets/images/hersteller/best-of-home.webp"
+    },
+    {
+        "key": "8 seasons design",
+        "name": "8 Seasons Design",
+        "slug": "8-seasons-design",
+        "productCategory": "8 Seasons Design",
+        "localThumb": "/assets/images/hersteller/8-seasons-design.webp"
+    },
+    {
+        "key": "olympia",
+        "name": "Olympia",
+        "slug": "olympia",
+        "productCategory": "Olympia",
+        "localThumb": "/assets/images/hersteller/olympia.webp"
+    },
+    {
+        "key": "kopp",
+        "name": "Kopp",
+        "slug": "kopp",
+        "productCategory": "Kopp",
+        "localThumb": "/assets/images/hersteller/kopp.webp"
+    },
+    {
+        "key": "oase",
+        "name": "Oase",
+        "slug": "oase",
+        "productCategory": "Oase",
+        "localThumb": "/assets/images/hersteller/oase.webp"
+    },
+    {
+        "key": "siena garden",
+        "name": "Siena Garden",
+        "slug": "siena-garden",
+        "productCategory": "Siena Garden",
+        "localThumb": "/assets/images/hersteller/siena-garden.webp"
+    },
+    {
+        "key": "lightme",
+        "name": "Lightme",
+        "slug": "lightme",
+        "productCategory": "Lightme",
+        "localThumb": "/assets/images/hersteller/lightme.webp"
+    },
+    {
+        "key": "idual",
+        "name": "iDual",
+        "slug": "idual",
+        "productCategory": "iDual",
+        "localThumb": "/assets/images/hersteller/idual.webp"
+    },
+    {
+        "key": "wiz",
+        "name": "WIZ",
+        "slug": "wiz",
+        "productCategory": "WIZ",
+        "localThumb": "/assets/images/hersteller/wiz.webp"
+    },
+    {
+        "key": "luceco",
+        "name": "LUCECO",
+        "slug": "luceco",
+        "productCategory": "LUCECO",
+        "localThumb": "/assets/images/hersteller/luceco.webp"
     }
 ]

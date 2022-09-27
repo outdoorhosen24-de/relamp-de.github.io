@@ -1,107 +1,562 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "led-leuchten",
+        "name": "LED-Leuchten",
+        "slug": "led-leuchten",
+        "productCategory": "LED-Leuchten",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "led-streifen",
+        "name": "LED-Streifen",
+        "slug": "led-streifen",
+        "productCategory": "LED-Streifen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "innenleuchten",
+        "name": "Innenleuchten",
+        "slug": "innenleuchten",
+        "productCategory": "Innenleuchten",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "wandlampen",
+        "name": "Wandlampen",
+        "slug": "wandlampen",
+        "productCategory": "Wandlampen",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "smart home lampen",
+        "name": "Smart Home Lampen",
+        "slug": "smart-home-lampen",
+        "productCategory": "Smart Home Lampen",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "philips hue",
+        "name": "Philips Hue",
+        "slug": "philips-hue",
+        "productCategory": "Philips Hue",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "philips hue leuchten",
+        "name": "Philips Hue Leuchten",
+        "slug": "philips-hue-leuchten",
+        "productCategory": "Philips Hue Leuchten",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "philips hue leuchtmittel",
+        "name": "Philips Hue Leuchtmittel",
+        "slug": "philips-hue-leuchtmittel",
+        "productCategory": "Philips Hue Leuchtmittel",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "außenleuchten",
+        "name": "Außenleuchten",
+        "slug": "aussenleuchten",
+        "productCategory": "Außenleuchten",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "zubehör für außenleuchten",
+        "name": "Zubehör für Außenleuchten",
+        "slug": "zubehor-fur-aussenleuchten",
+        "productCategory": "Zubehör für Außenleuchten",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "bewegungsmelder",
+        "name": "Bewegungsmelder",
+        "slug": "bewegungsmelder",
+        "productCategory": "Bewegungsmelder",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "weitere smarte leuchten",
+        "name": "Weitere Smarte Leuchten",
+        "slug": "weitere-smarte-leuchten",
+        "productCategory": "Weitere Smarte Leuchten",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "solarleuchten",
+        "name": "Solarleuchten",
+        "slug": "solarleuchten",
+        "productCategory": "Solarleuchten",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "solar-deko",
+        "name": "Solar-Deko",
+        "slug": "solar-deko",
+        "productCategory": "Solar-Deko",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "gartenstrahler",
+        "name": "Gartenstrahler",
+        "slug": "gartenstrahler",
+        "productCategory": "Gartenstrahler",
+        "subCategories": []
+    },
+    {
+        "key": "solar-lichterketten",
+        "name": "Solar-Lichterketten",
+        "slug": "solar-lichterketten",
+        "productCategory": "Solar-Lichterketten",
+        "subCategories": []
+    },
+    {
+        "key": "außen-dekoleuchten",
+        "name": "Außen-Dekoleuchten",
+        "slug": "aussen-dekoleuchten",
+        "productCategory": "Außen-Dekoleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "led-panels",
+        "name": "LED-Panels",
+        "slug": "led-panels",
+        "productCategory": "LED-Panels",
+        "subCategories": []
+    },
+    {
+        "key": "bodeneinbaustrahler",
+        "name": "Bodeneinbaustrahler",
+        "slug": "bodeneinbaustrahler",
+        "productCategory": "Bodeneinbaustrahler",
+        "subCategories": []
+    },
+    {
+        "key": "leuchtmittel",
+        "name": "Leuchtmittel",
+        "slug": "leuchtmittel",
+        "productCategory": "Leuchtmittel",
+        "subCategories": []
+    },
+    {
+        "key": "led-leuchtmittel",
+        "name": "LED-Leuchtmittel",
+        "slug": "led-leuchtmittel",
+        "productCategory": "LED-Leuchtmittel",
+        "subCategories": []
+    },
+    {
+        "key": "e27 led",
+        "name": "E27 LED",
+        "slug": "e27-led",
+        "productCategory": "E27 LED",
+        "subCategories": []
+    },
+    {
+        "key": "deckenleuchten",
+        "name": "Deckenleuchten",
+        "slug": "deckenleuchten",
+        "productCategory": "Deckenleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "arbeitsleuchten",
+        "name": "Arbeitsleuchten",
+        "slug": "arbeitsleuchten",
+        "productCategory": "Arbeitsleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "feuchtraumleuchten",
+        "name": "Feuchtraumleuchten",
+        "slug": "feuchtraumleuchten",
+        "productCategory": "Feuchtraumleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "badlampen",
+        "name": "Badlampen",
+        "slug": "badlampen",
+        "productCategory": "Badlampen",
+        "subCategories": []
+    },
+    {
+        "key": "bad-deckenleuchten",
+        "name": "Bad-Deckenleuchten",
+        "slug": "bad-deckenleuchten",
+        "productCategory": "Bad-Deckenleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "spiegelleuchten",
+        "name": "Spiegelleuchten",
+        "slug": "spiegelleuchten",
+        "productCategory": "Spiegelleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "solar-wegeleuchten",
+        "name": "Solar-Wegeleuchten",
+        "slug": "solar-wegeleuchten",
+        "productCategory": "Solar-Wegeleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "außenwandleuchten",
+        "name": "Außenwandleuchten",
+        "slug": "aussenwandleuchten",
+        "productCategory": "Außenwandleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "osram smart+",
+        "name": "Osram Smart+",
+        "slug": "osram-smart",
+        "productCategory": "Osram Smart+",
+        "subCategories": []
+    },
+    {
+        "key": "osram smart+ leuchtmittel",
+        "name": "Osram Smart+ Leuchtmittel",
+        "slug": "osram-smart-leuchtmittel",
+        "productCategory": "Osram Smart+ Leuchtmittel",
+        "subCategories": []
+    },
+    {
+        "key": "kellerleuchten",
+        "name": "Kellerleuchten",
+        "slug": "kellerleuchten",
+        "productCategory": "Kellerleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "solar-wandleuchten",
+        "name": "Solar-Wandleuchten",
+        "slug": "solar-wandleuchten",
+        "productCategory": "Solar-Wandleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "einbaustrahler",
+        "name": "Einbaustrahler",
+        "slug": "einbaustrahler",
+        "productCategory": "Einbaustrahler",
+        "subCategories": []
+    },
+    {
+        "key": "led-leuchtstofflampen",
+        "name": "LED-Leuchtstofflampen",
+        "slug": "led-leuchtstofflampen",
+        "productCategory": "LED-Leuchtstofflampen",
+        "subCategories": []
+    },
+    {
+        "key": "solar-laternen",
+        "name": "Solar-Laternen",
+        "slug": "solar-laternen",
+        "productCategory": "Solar-Laternen",
+        "subCategories": []
+    },
+    {
+        "key": "unterbauleuchten",
+        "name": "Unterbauleuchten",
+        "slug": "unterbauleuchten",
+        "productCategory": "Unterbauleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "lichtleisten",
+        "name": "Lichtleisten",
+        "slug": "lichtleisten",
+        "productCategory": "Lichtleisten",
+        "subCategories": []
+    },
+    {
+        "key": "pendelleuchten",
+        "name": "Pendelleuchten",
+        "slug": "pendelleuchten",
+        "productCategory": "Pendelleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "bad-einbaustrahler",
+        "name": "Bad-Einbaustrahler",
+        "slug": "bad-einbaustrahler",
+        "productCategory": "Bad-Einbaustrahler",
+        "subCategories": []
+    },
+    {
+        "key": "bad-wandleuchten",
+        "name": "Bad-Wandleuchten",
+        "slug": "bad-wandleuchten",
+        "productCategory": "Bad-Wandleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "wegeleuchten",
+        "name": "Wegeleuchten",
+        "slug": "wegeleuchten",
+        "productCategory": "Wegeleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "außenbeleuchtungssysteme",
+        "name": "Außenbeleuchtungssysteme",
+        "slug": "aussenbeleuchtungssysteme",
+        "productCategory": "Außenbeleuchtungssysteme",
+        "subCategories": []
+    },
+    {
+        "key": "stromverteilung außenbereich",
+        "name": "Stromverteilung Außenbereich",
+        "slug": "stromverteilung-aussenbereich",
+        "productCategory": "Stromverteilung Außenbereich",
+        "subCategories": []
+    },
+    {
+        "key": "sockelleuchten",
+        "name": "Sockelleuchten",
+        "slug": "sockelleuchten",
+        "productCategory": "Sockelleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "außenstrahler",
+        "name": "Außenstrahler",
+        "slug": "aussenstrahler",
+        "productCategory": "Außenstrahler",
+        "subCategories": []
+    },
+    {
+        "key": "hausnummernleuchten",
+        "name": "Hausnummernleuchten",
+        "slug": "hausnummernleuchten",
+        "productCategory": "Hausnummernleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "solar-kugeln",
+        "name": "Solar-Kugeln",
+        "slug": "solar-kugeln",
+        "productCategory": "Solar-Kugeln",
+        "subCategories": []
+    },
+    {
+        "key": "spots",
+        "name": "Spots",
+        "slug": "spots",
+        "productCategory": "Spots",
+        "subCategories": []
+    },
+    {
+        "key": "tischlampen",
+        "name": "Tischlampen",
+        "slug": "tischlampen",
+        "productCategory": "Tischlampen",
+        "subCategories": []
+    },
+    {
+        "key": "nachttischlampen",
+        "name": "Nachttischlampen",
+        "slug": "nachttischlampen",
+        "productCategory": "Nachttischlampen",
+        "subCategories": []
+    },
+    {
+        "key": "stehlampen",
+        "name": "Stehlampen",
+        "slug": "stehlampen",
+        "productCategory": "Stehlampen",
+        "subCategories": []
+    },
+    {
+        "key": "dreibein-stehlampen",
+        "name": "Dreibein-Stehlampen",
+        "slug": "dreibein-stehlampen",
+        "productCategory": "Dreibein-Stehlampen",
+        "subCategories": []
+    },
+    {
+        "key": "design-tischlampen",
+        "name": "Design-Tischlampen",
+        "slug": "design-tischlampen",
+        "productCategory": "Design-Tischlampen",
+        "subCategories": []
+    },
+    {
+        "key": "design-stehlampen",
+        "name": "Design-Stehlampen",
+        "slug": "design-stehlampen",
+        "productCategory": "Design-Stehlampen",
+        "subCategories": []
+    },
+    {
+        "key": "e14 led",
+        "name": "E14 LED",
+        "slug": "e14-led",
+        "productCategory": "E14 LED",
+        "subCategories": []
+    },
+    {
+        "key": "schienensysteme",
+        "name": "Schienensysteme",
+        "slug": "schienensysteme",
+        "productCategory": "Schienensysteme",
+        "subCategories": []
+    },
+    {
+        "key": "kinderzimmerlampen",
+        "name": "Kinderzimmerlampen",
+        "slug": "kinderzimmerlampen",
+        "productCategory": "Kinderzimmerlampen",
+        "subCategories": []
+    },
+    {
+        "key": "nachtlichter",
+        "name": "Nachtlichter",
+        "slug": "nachtlichter",
+        "productCategory": "Nachtlichter",
+        "subCategories": []
+    },
+    {
+        "key": "gu10 led",
+        "name": "GU10 LED",
+        "slug": "gu10-led",
+        "productCategory": "GU10 LED",
+        "subCategories": []
+    },
+    {
+        "key": "led-deckenleuchten",
+        "name": "LED-Deckenleuchten",
+        "slug": "led-deckenleuchten",
+        "productCategory": "LED-Deckenleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "schreibtischlampen",
+        "name": "Schreibtischlampen",
+        "slug": "schreibtischlampen",
+        "productCategory": "Schreibtischlampen",
+        "subCategories": []
+    },
+    {
+        "key": "led-wandleuchten",
+        "name": "LED-Wandleuchten",
+        "slug": "led-wandleuchten",
+        "productCategory": "LED-Wandleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "klemmleuchten",
+        "name": "Klemmleuchten",
+        "slug": "klemmleuchten",
+        "productCategory": "Klemmleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "bogenlampen",
+        "name": "Bogenlampen",
+        "slug": "bogenlampen",
+        "productCategory": "Bogenlampen",
+        "subCategories": []
+    },
+    {
+        "key": "leselampen",
+        "name": "Leselampen",
+        "slug": "leselampen",
+        "productCategory": "Leselampen",
+        "subCategories": []
+    },
+    {
+        "key": "deckenfluter",
+        "name": "Deckenfluter",
+        "slug": "deckenfluter",
+        "productCategory": "Deckenfluter",
+        "subCategories": []
+    },
+    {
+        "key": "außendeckenleuchten",
+        "name": "Außendeckenleuchten",
+        "slug": "aussendeckenleuchten",
+        "productCategory": "Außendeckenleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "kandelaber & mastleuchten",
+        "name": "Kandelaber & Mastleuchten",
+        "slug": "kandelaber-mastleuchten",
+        "productCategory": "Kandelaber & Mastleuchten",
+        "subCategories": []
+    },
+    {
+        "key": "solar-bodenstrahler",
+        "name": "Solar-Bodenstrahler",
+        "slug": "solar-bodenstrahler",
+        "productCategory": "Solar-Bodenstrahler",
+        "subCategories": []
+    },
+    {
+        "key": "led-baustrahler",
+        "name": "LED-Baustrahler",
+        "slug": "led-baustrahler",
+        "productCategory": "LED-Baustrahler",
+        "subCategories": []
+    },
+    {
+        "key": "osram smart+ leuchten",
+        "name": "Osram Smart+ Leuchten",
+        "slug": "osram-smart-leuchten",
+        "productCategory": "Osram Smart+ Leuchten",
+        "subCategories": []
+    },
+    {
+        "key": "g4 led",
+        "name": "G4 LED",
+        "slug": "g4-led",
+        "productCategory": "G4 LED",
+        "subCategories": []
+    },
+    {
+        "key": "leuchtstofflampen",
+        "name": "Leuchtstofflampen",
+        "slug": "leuchtstofflampen",
+        "productCategory": "Leuchtstofflampen",
+        "subCategories": []
+    },
+    {
+        "key": "g9 led",
+        "name": "G9 LED",
+        "slug": "g9-led",
+        "productCategory": "G9 LED",
+        "subCategories": []
+    },
+    {
+        "key": "r7s led",
+        "name": "R7S LED",
+        "slug": "r7s-led",
+        "productCategory": "R7S LED",
+        "subCategories": []
+    },
+    {
+        "key": "gu5.3 led",
+        "name": "GU5.3 LED",
+        "slug": "gu5-3-led",
+        "productCategory": "GU5.3 LED",
+        "subCategories": []
+    },
+    {
+        "key": "weitere smarte leuchtmittel",
+        "name": "Weitere Smarte Leuchtmittel",
+        "slug": "weitere-smarte-leuchtmittel",
+        "productCategory": "Weitere Smarte Leuchtmittel",
+        "subCategories": []
+    },
+    {
+        "key": "solar-hausnummern",
+        "name": "Solar-Hausnummern",
+        "slug": "solar-hausnummern",
+        "productCategory": "Solar-Hausnummern",
         "subCategories": []
     }
 ]
