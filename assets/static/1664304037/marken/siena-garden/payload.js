@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/siena-garden", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/siena-garden-solar-leuchtkugel-kunststoff-4-led-o-30-cm-x-665-cm-siena-garden-7693138-1.jpg":"\u002Fassets\u002Fimages\u002Fsiena-garden-solar-leuchtkugel-kunststoff-4-led-o-30-cm-x-665-cm-siena-garden-7693138-1.webp"}}],fetch:{},mutations:void 0});

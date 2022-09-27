@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/leuchtendirekt-by-neuhaus", {data:[{_img:{}}],fetch:{},mutations:void 0});

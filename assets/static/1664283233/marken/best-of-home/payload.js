@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/best-of-home", {data:[{_img:{}}],fetch:{},mutations:void 0});

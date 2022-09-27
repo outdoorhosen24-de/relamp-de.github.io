@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/wiz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wiz-smart-wifi-steckdosenadapter-smart-plug-weisz-wiz-7885122-1.jpg":"\u002Fassets\u002Fimages\u002Fwiz-smart-wifi-steckdosenadapter-smart-plug-weisz-wiz-7885122-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/kandelaber-mastleuchten", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kandelaber-istria-schwarz-sonstige-6481402-1.jpg":"\u002Fassets\u002Fimages\u002Fkandelaber-istria-schwarz-sonstige-6481402-1.webp"}}],fetch:{},mutations:void 0});

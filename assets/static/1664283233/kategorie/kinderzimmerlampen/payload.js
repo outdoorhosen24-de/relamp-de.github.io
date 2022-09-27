@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/kinderzimmerlampen", {data:[{_img:{}}],fetch:{},mutations:void 0});

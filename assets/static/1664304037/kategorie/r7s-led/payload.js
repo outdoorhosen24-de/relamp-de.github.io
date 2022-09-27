@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/r7s-led", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/osram-led-lampe-classic-t-form-klar-r7s-11-w-1-521-lm-warmweisz-osram-8481236-1.jpg":"\u002Fassets\u002Fimages\u002Fosram-led-lampe-classic-t-form-klar-r7s-11-w-1-521-lm-warmweisz-osram-8481236-1.webp"}}],fetch:{},mutations:void 0});
