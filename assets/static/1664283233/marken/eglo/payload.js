@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/eglo", {data:[{_img:{}}],fetch:{},mutations:void 0});

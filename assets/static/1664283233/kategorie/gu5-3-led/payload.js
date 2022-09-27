@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/gu5-3-led", {data:[{_img:{}}],fetch:{},mutations:void 0});

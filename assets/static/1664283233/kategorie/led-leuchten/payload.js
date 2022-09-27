@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/led-leuchten", {data:[{_img:{}}],fetch:{},mutations:void 0});

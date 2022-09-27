@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/8-seasons-design", {data:[{_img:{}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/p-s", {data:[{_img:{}}],fetch:{},mutations:void 0});
