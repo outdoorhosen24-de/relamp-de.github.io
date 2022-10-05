@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/kinderzimmerlampen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/nachtlicht-mit-sensor-weisz-sonstige-4282612-1.jpg":"\u002Fassets\u002Fimages\u002Fnachtlicht-mit-sensor-weisz-sonstige-4282612-1.webp"}}],fetch:{},mutations:void 0});

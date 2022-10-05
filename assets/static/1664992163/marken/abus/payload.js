@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/abus", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/abus-funk-alarmanlage-smartvest-fubw35000a-bewegungsmelder-abus-6632475-1.jpg":"\u002Fassets\u002Fimages\u002Fabus-funk-alarmanlage-smartvest-fubw35000a-bewegungsmelder-abus-6632475-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/led-baustrahler", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/rev-ritter-led-baustrahler-mit-akku-spot-7-w-600-lm-6000-k-schwarz-gelb-sonstige-3965720-1.jpg":"\u002Fassets\u002Fimages\u002Frev-ritter-led-baustrahler-mit-akku-spot-7-w-600-lm-6000-k-schwarz-gelb-sonstige-3965720-1.webp"}}],fetch:{},mutations:void 0});
