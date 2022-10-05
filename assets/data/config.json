@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "relamp.de",
     "hostname": "https://www.relamp.de/",
-    "email": "relamp.de@surrealnetworks.io",
+    "email": "relamp.desurrealnetworks.io",
     "organization": "relamp.de",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "logoText": "Relamp.de",
+    "title": "Lampen & Leuchten",
+    "subline": "Der Online Shop f\u00fcr Lampen & Leuchten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "9791427",
+        "1229962",
+        "7067044",
+        "8153421",
+        "9791427",
+        "7949985"
+    ],
+    "winnerProducts": [
+        "4081873",
+        "1938752",
+        "2160844"
+    ],
+    "featuredCategories": [
+        "Philips Hue Leuchtmittel",
+        "Au\u00dfenleuchten",
+        "Philips Hue Leuchtmittel",
+        "Solarleuchten",
+        "Innenleuchten",
+        "Unterbauleuchten"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Lampen & Leuchten",
-        "featureText": "Your featured text goes here",
+        "featureText": "Lampen & Leuchten ist ein Shop, der sich auf Lampen und Leuchten spezialisiert hat. Hier finden Sie eine gro\u00dfe Auswahl an Lampen und Leuchten in verschiedenen Stilen und Ausf\u00fchrungen. Sie k\u00f6nnen hier sowohl klassische als auch moderne Lampen und Leuchten finden.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Lampen & Leuchten - die beste Auswahl in der Stadt!",
+            "metaDescription": "Lampen & Leuchten - Die beste Auswahl an Lampen und Leuchten f\u00fcr Ihr Zuhause. Top Qualit\u00e4t zu g\u00fcnstigen Preisen. Kostenlose Lieferung ab \u20ac50.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Lampen & Leuchten - Beleuchtung f\u00fcr jeden Raum",
+                    "text": "Lampen und Leuchten sind unverzichtbar, um R\u00e4ume zu erhellen und zu gestalten. Sie k\u00f6nnen eine Atmosph\u00e4re schaffen und die Stimmung eines Raumes beeinflussen. Die Auswahl an Lampen und Leuchten ist gro\u00df und so gibt es f\u00fcr jeden Geschmack die passende Beleuchtung.\n\nDie klassische Lampe ist meist eine Stehlampe oder eine Tischlampe. Sie kann mit einem Schirm ausgestattet sein, der das Licht streut und so f\u00fcr eine gem\u00fctliche Atmosph\u00e4re sorgt. Eine Stehlampe kann auch ohne Schirm sein und so ein direktes, klares Licht erzeugen. Tischlampen sind in der Regel kleiner und leichter als Stehlampen und k\u00f6nnen so auch an anderen Orten platziert werden.\n\nLeuchten werden meist an der Decke angebracht und k\u00f6nnen so einen ganzen Raum erhellen. Sie k\u00f6nnen aber auch an der Wand befestigt werden oder als Standleuchte aufgestellt werden. Eine gute Beleuchtung ist wichtig, um R\u00e4ume optimal auszuleuchten.\n\nLampen und Leuchten k\u00f6nnen aus unterschiedlichen Materialien hergestellt werden. Die klassische Lampe ist meist aus Metall oder Holz. Moderne Lampen und Leuchten k\u00f6nnen aber auch aus Kunststoff oder Glas sein.\n\nDie Beleuchtung eines Raumes sollte immer an die jeweilige Funktion des Raumes angepasst sein. So sollte in einem Arbeitszimmer eine helle Beleuchtung gew\u00e4hlt werden, damit man auch bei Dunkelheit gut arbeiten kann"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Lampen & Leuchten Shop",
+            "metaDescription": "Lampen & Leuchten Shop - Hier findest du alles, was du f\u00fcr dein perfektes Zuhause brauchst!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Lampen & Leuchten Hersteller",
+            "metaDescription": "Lampen & Leuchten - Finden Sie den richtigen Hersteller f\u00fcr Ihre Beleuchtungsanforderungen. Wir haben eine gro\u00dfe Auswahl an Herstellern, die qualitativ hochwertige Lampen & Leuchten produzieren.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Lampen & Leuchten: $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER, $KATEGORIE - Jetzt online kaufen bei Lampen & Leuchten!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Lampen & Leuchten: $KATEGORIE f\u00fcr jeden Einrichtungsstil",
+        "defaultMetaDescription": "$KATEGORIE Lampen & Leuchten - kaufen Sie die besten Marken bei Lampenwelt.de. Riesige Auswahl an Tisch-, Steh- und Wandleuchten.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist f\u00fcr Lampen und Leuchten. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten zu g\u00fcnstigen Preisen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Lampen & Leuchten",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Lampen & Leuchten Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Lampen & Leuchten Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
