@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "relamp.de",
     "hostname": "https://www.relamp.de/",
     "email": "relamp.desurrealnetworks.io",
     "organization": "relamp.de",
     "logoText": "Relamp.de",
     "title": "Lampen & Leuchten",
-    "subline": "Der Online Shop f\u00fcr Lampen & Leuchten",
+    "subline": "Der Online Shop für Lampen & Leuchten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -29,7 +29,7 @@
     ],
     "featuredCategories": [
         "Philips Hue Leuchtmittel",
-        "Au\u00dfenleuchten",
+        "Außenleuchten",
         "Philips Hue Leuchtmittel",
         "Solarleuchten",
         "Innenleuchten",
@@ -46,26 +46,26 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Lampen & Leuchten",
-        "featureText": "Lampen & Leuchten ist ein Shop, der sich auf Lampen und Leuchten spezialisiert hat. Hier finden Sie eine gro\u00dfe Auswahl an Lampen und Leuchten in verschiedenen Stilen und Ausf\u00fchrungen. Sie k\u00f6nnen hier sowohl klassische als auch moderne Lampen und Leuchten finden.",
+        "featureText": "Lampen & Leuchten ist ein Shop, der sich auf Lampen und Leuchten spezialisiert hat. Hier finden Sie eine große Auswahl an Lampen und Leuchten in verschiedenen Stilen und Ausführungen. Sie können hier sowohl klassische als auch moderne Lampen und Leuchten finden.",
         "index": {
             "title": "Lampen & Leuchten - die beste Auswahl in der Stadt!",
-            "metaDescription": "Lampen & Leuchten - Die beste Auswahl an Lampen und Leuchten f\u00fcr Ihr Zuhause. Top Qualit\u00e4t zu g\u00fcnstigen Preisen. Kostenlose Lieferung ab \u20ac50.",
+            "metaDescription": "Lampen & Leuchten - Die beste Auswahl an Lampen und Leuchten für Ihr Zuhause. Top Qualität zu günstigen Preisen. Kostenlose Lieferung ab €50.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Lampen & Leuchten - Beleuchtung f\u00fcr jeden Raum",
-                    "text": "Lampen und Leuchten sind unverzichtbar, um R\u00e4ume zu erhellen und zu gestalten. Sie k\u00f6nnen eine Atmosph\u00e4re schaffen und die Stimmung eines Raumes beeinflussen. Die Auswahl an Lampen und Leuchten ist gro\u00df und so gibt es f\u00fcr jeden Geschmack die passende Beleuchtung.\n\nDie klassische Lampe ist meist eine Stehlampe oder eine Tischlampe. Sie kann mit einem Schirm ausgestattet sein, der das Licht streut und so f\u00fcr eine gem\u00fctliche Atmosph\u00e4re sorgt. Eine Stehlampe kann auch ohne Schirm sein und so ein direktes, klares Licht erzeugen. Tischlampen sind in der Regel kleiner und leichter als Stehlampen und k\u00f6nnen so auch an anderen Orten platziert werden.\n\nLeuchten werden meist an der Decke angebracht und k\u00f6nnen so einen ganzen Raum erhellen. Sie k\u00f6nnen aber auch an der Wand befestigt werden oder als Standleuchte aufgestellt werden. Eine gute Beleuchtung ist wichtig, um R\u00e4ume optimal auszuleuchten.\n\nLampen und Leuchten k\u00f6nnen aus unterschiedlichen Materialien hergestellt werden. Die klassische Lampe ist meist aus Metall oder Holz. Moderne Lampen und Leuchten k\u00f6nnen aber auch aus Kunststoff oder Glas sein.\n\nDie Beleuchtung eines Raumes sollte immer an die jeweilige Funktion des Raumes angepasst sein. So sollte in einem Arbeitszimmer eine helle Beleuchtung gew\u00e4hlt werden, damit man auch bei Dunkelheit gut arbeiten kann"
+                    "title": "Lampen & Leuchten - Beleuchtung für jeden Raum",
+                    "text": "Lampen und Leuchten sind unverzichtbar, um Räume zu erhellen und zu gestalten. Sie können eine Atmosphäre schaffen und die Stimmung eines Raumes beeinflussen. Die Auswahl an Lampen und Leuchten ist groß und so gibt es für jeden Geschmack die passende Beleuchtung.\n\nDie klassische Lampe ist meist eine Stehlampe oder eine Tischlampe. Sie kann mit einem Schirm ausgestattet sein, der das Licht streut und so für eine gemütliche Atmosphäre sorgt. Eine Stehlampe kann auch ohne Schirm sein und so ein direktes, klares Licht erzeugen. Tischlampen sind in der Regel kleiner und leichter als Stehlampen und können so auch an anderen Orten platziert werden.\n\nLeuchten werden meist an der Decke angebracht und können so einen ganzen Raum erhellen. Sie können aber auch an der Wand befestigt werden oder als Standleuchte aufgestellt werden. Eine gute Beleuchtung ist wichtig, um Räume optimal auszuleuchten.\n\nLampen und Leuchten können aus unterschiedlichen Materialien hergestellt werden. Die klassische Lampe ist meist aus Metall oder Holz. Moderne Lampen und Leuchten können aber auch aus Kunststoff oder Glas sein.\n\nDie Beleuchtung eines Raumes sollte immer an die jeweilige Funktion des Raumes angepasst sein. So sollte in einem Arbeitszimmer eine helle Beleuchtung gewählt werden, damit man auch bei Dunkelheit gut arbeiten kann"
                 }
             ]
         },
         "shop": {
             "title": "Lampen & Leuchten Shop",
-            "metaDescription": "Lampen & Leuchten Shop - Hier findest du alles, was du f\u00fcr dein perfektes Zuhause brauchst!",
+            "metaDescription": "Lampen & Leuchten Shop - Hier findest du alles, was du für dein perfektes Zuhause brauchst!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Lampen & Leuchten Hersteller",
-            "metaDescription": "Lampen & Leuchten - Finden Sie den richtigen Hersteller f\u00fcr Ihre Beleuchtungsanforderungen. Wir haben eine gro\u00dfe Auswahl an Herstellern, die qualitativ hochwertige Lampen & Leuchten produzieren.",
+            "metaDescription": "Lampen & Leuchten - Finden Sie den richtigen Hersteller für Ihre Beleuchtungsanforderungen. Wir haben eine große Auswahl an Herstellern, die qualitativ hochwertige Lampen & Leuchten produzieren.",
             "robots": "index, follow"
         }
     },
@@ -78,15 +78,15 @@
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Lampen & Leuchten: $KATEGORIE f\u00fcr jeden Einrichtungsstil",
+        "defaultTitle": "Lampen & Leuchten: $KATEGORIE für jeden Einrichtungsstil",
         "defaultMetaDescription": "$KATEGORIE Lampen & Leuchten - kaufen Sie die besten Marken bei Lampenwelt.de. Riesige Auswahl an Tisch-, Steh- und Wandleuchten.",
         "defaultRobots": "index, follow",
         "categories": [
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist f\u00fcr Lampen und Leuchten. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Produkten zu g\u00fcnstigen Preisen.",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist für Lampen und Leuchten. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten zu günstigen Preisen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
