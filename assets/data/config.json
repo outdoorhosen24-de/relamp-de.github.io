@@ -51,12 +51,15 @@
             "title": "Lampen & Leuchten - die beste Auswahl in der Stadt!",
             "metaDescription": "Lampen & Leuchten - Die beste Auswahl an Lampen und Leuchten für Ihr Zuhause. Top Qualität zu günstigen Preisen. Kostenlose Lieferung ab €50.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Lampen & Leuchten - Beleuchtung für jeden Raum",
-                    "text": "Lampen und Leuchten sind unverzichtbar, um Räume zu erhellen und zu gestalten. Sie können eine Atmosphäre schaffen und die Stimmung eines Raumes beeinflussen. Die Auswahl an Lampen und Leuchten ist groß und so gibt es für jeden Geschmack die passende Beleuchtung.\n\nDie klassische Lampe ist meist eine Stehlampe oder eine Tischlampe. Sie kann mit einem Schirm ausgestattet sein, der das Licht streut und so für eine gemütliche Atmosphäre sorgt. Eine Stehlampe kann auch ohne Schirm sein und so ein direktes, klares Licht erzeugen. Tischlampen sind in der Regel kleiner und leichter als Stehlampen und können so auch an anderen Orten platziert werden.\n\nLeuchten werden meist an der Decke angebracht und können so einen ganzen Raum erhellen. Sie können aber auch an der Wand befestigt werden oder als Standleuchte aufgestellt werden. Eine gute Beleuchtung ist wichtig, um Räume optimal auszuleuchten.\n\nLampen und Leuchten können aus unterschiedlichen Materialien hergestellt werden. Die klassische Lampe ist meist aus Metall oder Holz. Moderne Lampen und Leuchten können aber auch aus Kunststoff oder Glas sein.\n\nDie Beleuchtung eines Raumes sollte immer an die jeweilige Funktion des Raumes angepasst sein. So sollte in einem Arbeitszimmer eine helle Beleuchtung gewählt werden, damit man auch bei Dunkelheit gut arbeiten kann"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Lampen & Leuchten - Beleuchtung für jeden Raum",
+                        "text": "Lampen und Leuchten sind unverzichtbar, um Räume zu erhellen und zu gestalten. Sie können eine Atmosphäre schaffen und die Stimmung eines Raumes beeinflussen. Die Auswahl an Lampen und Leuchten ist groß und so gibt es für jeden Geschmack die passende Beleuchtung.\n\nDie klassische Lampe ist meist eine Stehlampe oder eine Tischlampe. Sie kann mit einem Schirm ausgestattet sein, der das Licht streut und so für eine gemütliche Atmosphäre sorgt. Eine Stehlampe kann auch ohne Schirm sein und so ein direktes, klares Licht erzeugen. Tischlampen sind in der Regel kleiner und leichter als Stehlampen und können so auch an anderen Orten platziert werden.\n\nLeuchten werden meist an der Decke angebracht und können so einen ganzen Raum erhellen. Sie können aber auch an der Wand befestigt werden oder als Standleuchte aufgestellt werden. Eine gute Beleuchtung ist wichtig, um Räume optimal auszuleuchten.\n\nLampen und Leuchten können aus unterschiedlichen Materialien hergestellt werden. Die klassische Lampe ist meist aus Metall oder Holz. Moderne Lampen und Leuchten können aber auch aus Kunststoff oder Glas sein.\n\nDie Beleuchtung eines Raumes sollte immer an die jeweilige Funktion des Raumes angepasst sein. So sollte in einem Arbeitszimmer eine helle Beleuchtung gewählt werden, damit man auch bei Dunkelheit gut arbeiten kann"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Lampen & Leuchten Shop",
