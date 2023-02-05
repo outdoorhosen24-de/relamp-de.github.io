@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "relamp.de",
     "hostname": "https://www.relamp.de/",
     "email": "relamp.de@surrealnetworks.io",
     "organization": "relamp.de",
     "logoText": "Relamp.de",
     "title": "Lampen & Leuchten",
-    "subline": "Der Online Shop für Lampen & Leuchten",
+    "subline": "Der Online Shop für eine tolle Atmosphäre",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Lampen & Leuchten",
-        "featureText": "Lampen & Leuchten ist ein Shop, der sich auf Lampen und Leuchten spezialisiert hat. Hier finden Sie eine große Auswahl an Lampen und Leuchten in verschiedenen Stilen und Ausführungen. Sie können hier sowohl klassische als auch moderne Lampen und Leuchten finden.",
+        "featureText": "Herzlich willkommen im Shop für Lampen & Leuchten! Immer wieder bekommt Licht & Beleuchtung einen zu geringen Stellenwert bei der Gestaltung des eigenen Zuhauses. Dabei ist Licht das entscheidende Element, um die schönen Dinge richtig darzustellen. Schaffen Sie jetzt eine tolle Atmosphäre in Ihrem Zuhause! Unser Sortiment bietet Ihnen die passenden Produkte dafür. Klicken Sie sich gerne durch unseren gut strukturierten Shop für Leuchtmittel & -systeme für jeden Anwendungsbereich!",
         "index": {
-            "title": "Lampen & Leuchten - die beste Auswahl in der Stadt!",
-            "metaDescription": "Lampen & Leuchten - Die beste Auswahl an Lampen und Leuchten für Ihr Zuhause. Top Qualität zu günstigen Preisen. Kostenlose Lieferung ab €50.",
+            "title": "Lampen & Leuchten kaufen | relamp.de",
+            "metaDescription": "Bei uns die beste Auswahl an Lampen & Leuchten für jeden Anwendungsbereich entdecken | Top Marken wie: Philips Hue, Abus, Osram, AEG uvm. | Bequem online kaufen",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Lampen & Leuchten Shop",
-            "metaDescription": "Lampen & Leuchten Shop - Hier findest du alles, was du für dein perfektes Zuhause brauchst!",
+            "title": "Lampen & Leuchten kaufen auf relamp.de",
+            "metaDescription": "Hier erhältlich! | Riesige Auswahl an Lampen & Leuchten | Innen- & Außenleuchten • LED Leuchten • Solar Leuchten • Smart Home Lampen • Deckenleuchten uvm.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Lampen & Leuchten Hersteller",
-            "metaDescription": "Lampen & Leuchten - Finden Sie den richtigen Hersteller für Ihre Beleuchtungsanforderungen. Wir haben eine große Auswahl an Herstellern, die qualitativ hochwertige Lampen & Leuchten produzieren.",
+            "title": "Lampen & Leuchten | Unsere Hersteller",
+            "metaDescription": "Top Marken wie: Philips Hue, Osram, AEG, Abus und mehr! | Eine Auflistung unserer Top Hersteller für Lampen & Leuchten auf einen Blick. | Top Qualitätsprodukte",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Lampen & Leuchten: $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER, $KATEGORIE - Jetzt online kaufen bei Lampen & Leuchten!",
+        "defaultTitle": "$PRODUKT - einfach online bestellen",
+        "defaultMetaDescription": "$PRODUKT ist ein hochklassiges Produkt vom Hersteller $HERSTELLER! Entdecken Sie weitere tolle Produkte zum Thema $KATEGORIE. | Alles in unserem Shop!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Lampen & Leuchten: $KATEGORIE für jeden Einrichtungsstil",
-        "defaultMetaDescription": "$KATEGORIE Lampen & Leuchten - kaufen Sie die besten Marken bei Lampenwelt.de. Riesige Auswahl an Tisch-, Steh- und Wandleuchten.",
+        "defaultTitle": "Riesige Auswahl an $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE für jeden Anwendungsbereich! | Finden Sie das passende Produkt für ein schönes Zuhause in unserem Shop! | Bestellen Sie $KATEGORIE einfach Online!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist für Lampen und Leuchten. Wir bieten Ihnen eine große Auswahl an hochwertigen Produkten zu günstigen Preisen.",
+        "defaultTitle": "$HERSTELLER - Immer die richtige Wahl",
+        "defaultMetaDescription": "Entdecken Sie tolle Produkte vom namhaften Hersteller $HERSTELLER. | Top Qualität zum fairen Preis! | Riesige Auswahl & schnelle Lieferung zu Ihnen nach Hause!",
         "defaultRobots": "index, follow",
         "brands": [
             {
