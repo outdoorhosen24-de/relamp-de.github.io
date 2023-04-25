@@ -1,484 +1,487 @@
 {
-    "configIsReady": true,
-    "domain": "relamp.de",
-    "hostname": "https://www.relamp.de/",
-    "email": "relamp.de@surrealnetworks.io",
-    "organization": "relamp.de",
-    "logoText": "Relamp.de",
-    "title": "Lampen & Leuchten",
-    "subline": "Der Online Shop für eine tolle Atmosphäre",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "9791427",
-        "1229962",
-        "7067044",
-        "8153421",
-        "9791427",
-        "7949985"
-    ],
-    "winnerProducts": [
-        "4081873",
-        "1938752",
-        "2160844"
-    ],
-    "featuredCategories": [
-        "Philips Hue Leuchtmittel",
-        "Außenleuchten",
-        "Philips Hue Leuchtmittel",
-        "Solarleuchten",
-        "Innenleuchten",
-        "Unterbauleuchten"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Lampen & Leuchten",
-        "featureText": "Herzlich willkommen im Shop für Lampen & Leuchten! Immer wieder bekommt Licht & Beleuchtung einen zu geringen Stellenwert bei der Gestaltung des eigenen Zuhauses. Dabei ist Licht das entscheidende Element, um die schönen Dinge richtig darzustellen. Schaffen Sie jetzt eine tolle Atmosphäre in Ihrem Zuhause! Unser Sortiment bietet Ihnen die passenden Produkte dafür. Klicken Sie sich gerne durch unseren gut strukturierten Shop für Leuchtmittel & -systeme für jeden Anwendungsbereich!",
-        "index": {
-            "title": "Lampen & Leuchten kaufen | relamp.de",
-            "metaDescription": "Bei uns die beste Auswahl an Lampen & Leuchten für jeden Anwendungsbereich entdecken | Top Marken wie: Philips Hue, Abus, Osram, AEG uvm. | Bequem online kaufen",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Relamp - Ihrem Online-Shop für Lampen & Leuchten",
-                        "text": "Herzlich Willkommen bei Relamp, Ihrem Online-Shop für Lampen & Leuchten. Wir bieten Ihnen eine große Auswahl an innovativen und hochwertigen Leuchtmitteln für jeden Bedarf. Ob LED-Leuchten, Wandlampen, Innenleuchten, Smart Home Lampen oder Philips Hue - bei uns finden Sie alles, was das Herz begehrt. Auch für den Außenbereich haben wir eine breite Auswahl an Außenleuchten und Zubehör im Angebot. Entdecken Sie jetzt unsere vielfältige Produktpalette und lassen Sie sich von uns begeistern. Bei Fragen stehen wir Ihnen jederzeit gerne zur Verfügung."
-                    },
-                    {
-                        "title": "LED-Leuchten",
-                        "text": "Unsere Kategorie <a href=\"/kategorie/led-leuchten/\" title=\"LED-Leuchten\">LED-Leuchten</a> bietet Ihnen eine große Auswahl an energiesparenden Leuchtmitteln. Diese sind nicht nur umweltfreundlich, sondern auch besonders langlebig und kosteneffizient. Entdecken Sie unsere LED-Leuchten in verschiedenen Farben, Formen und Größen und finden Sie genau das, was zu Ihrem Stil passt."
-                    },
-                    {
-                        "title": "LED-Streifen",
-                        "text": "Unsere <a href=\"/kategorie/led-streifen/\" title=\"LED-Streifen\">LED-Streifen</a> bieten Ihnen eine flexible Möglichkeit, Ihr Zuhause zu beleuchten. Sie können einfach an die Wand oder Decke angebracht werden und bieten eine gleichmäßige und ansprechende Beleuchtung. Mit unseren LED-Streifen können Sie auch farbige Akzente setzen und Ihr Zuhause ganz nach Ihren Wünschen gestalten."
-                    },
-                    {
-                        "title": "Innenleuchten",
-                        "text": "Unsere <a href=\"/kategorie/innenleuchten/\" title=\"Innenleuchten\">Innenleuchten</a> bieten Ihnen eine Vielzahl an Möglichkeiten, Ihr Zuhause zu beleuchten. Von klassisch bis modern, von einfach bis ausgefallen - bei uns finden Sie garantiert die passende Leuchte für Ihr Zuhause. Entdecken Sie unsere Innenleuchten und lassen Sie sich von unserer großen Auswahl inspirieren."
-                    },
-                    {
-                        "title": "Wandlampen bei Relamp",
-                        "text": "Relamp bietet eine große Auswahl an Wandlampen für jeden Einrichtungsstil. Ob Sie nach einer Wandleuchte suchen, die Ihr Zuhause beleuchtet oder eine Leselampe für Ihr Schlafzimmer brauchen, bei uns finden Sie garantiert das richtige Modell. Unsere Wandlampen sind aus hochwertigen Materialien gefertigt und bieten eine lange Lebensdauer. Stöbern Sie jetzt in unserem Sortiment und finden Sie die perfekte Wandlampe für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Smart Home Lampen bei Relamp",
-                        "text": "Mit den Smart Home Lampen von Relamp bringen Sie Ihr Zuhause ins 21. Jahrhundert. Steuern Sie Ihre Beleuchtung bequem über Ihr Smartphone oder Ihre Stimme und schaffen Sie eine Wohlfühlatmosphäre. Wählen Sie aus einer Vielzahl an Farben und Helligkeiten und passen Sie die Beleuchtung an Ihre Stimmung oder den Anlass an. Entdecken Sie jetzt die Vorteile von Smart Home Lampen und bestellen Sie bei Relamp."
-                    },
-                    {
-                        "title": "Philips Hue bei Relamp",
-                        "text": "Relamp bietet eine große Auswahl an Philips Hue Leuchten und Zubehör. Philips Hue ist ein innovatives Smart Home Beleuchtungssystem, das Ihnen eine vollständige Steuerung Ihrer Beleuchtung über Ihr Smartphone oder Ihre Stimme ermöglicht. Wählen Sie aus einer Vielzahl an Farben und Helligkeiten und passen Sie die Beleuchtung an Ihre Stimmung oder den Anlass an. Entdecken Sie jetzt die Vorteile von Philips Hue und bestellen Sie bei Relamp."
-                    },
-                    {
-                        "title": "Philips Hue Leuchten",
-                        "text": "Entdecken Sie eine große Auswahl an <a href=\"/kategorie/philips-hue-leuchten/\" title=\"Philips Hue Leuchten\">Philips Hue Leuchten</a> bei relamp.de. Wir bieten Ihnen eine Vielzahl von Stilen und Designs, die perfekt zu Ihrem Zuhause passen. Von Wandleuchten bis hin zu Tischleuchten und Stehleuchten, bei uns finden Sie alles, was Sie für eine stilvolle Beleuchtung benötigen. Alle Philips Hue Leuchten sind einfach zu installieren und einfach zu bedienen. Überzeugen Sie sich selbst von der Qualität und dem Stil unserer Produkte."
-                    },
-                    {
-                        "title": "Philips Hue Leuchtmittel",
-                        "text": "Erleben Sie eine neue Art der Beleuchtung mit <a href=\"/kategorie/philips-hue-leuchtmittel/\" title=\"Philips Hue Leuchtmittel\">Philips Hue Leuchtmittel</a>n. Diese hochwertigen Leuchtmittel bieten eine beeindruckende Farbvielfalt und sind einfach zu installieren. Ob Sie eine warme und gemütliche Atmosphäre in Ihrem Wohnzimmer schaffen oder eine kühle und effiziente Beleuchtung in Ihrem Büro benötigen, Philips Hue Leuchtmittel bieten Ihnen eine Vielzahl von Möglichkeiten. Entdecken Sie jetzt unser Sortiment an Philips Hue Leuchtmitteln bei relamp.de."
-                    },
-                    {
-                        "title": "Außenleuchten",
-                        "text": "Verleihen Sie Ihrem Außenbereich eine stilvolle Beleuchtung mit unseren <a href=\"/kategorie/aussenleuchten/\" title=\"Aussenleuchten\">Aussenleuchten</a> bei relamp.de. Wir bieten Ihnen eine große Auswahl an Wandleuchten, Strahlern und Leuchten für den Garten. Alle unsere Außenleuchten sind robust und langlebig und sorgen für eine sichere Beleuchtung rund um Ihr Zuhause. Entdecken Sie jetzt unser Sortiment an Außenleuchten und schaffen Sie eine angenehme Atmosphäre in Ihrem Garten oder auf Ihrer Terrasse."
-                    },
-                    {
-                        "title": "Zubehör für Außenleuchten",
-                        "text": "Die Kategorie <a href=\"/kategorie/zubehoer-fuer-aussenleuchten/\" title=\"Zubehör für Aussenleuchten\">Zubehör für Aussenleuchten</a> beinhaltet alle wichtigen Accessoires für Ihre Außenbeleuchtung. Hier finden Sie alles, was Sie benötigen, um Ihre Außenleuchten optimal zu installieren und zu nutzen. Von Befestigungsmaterialien über Ersatzteile bis hin zu Verlängerungskabeln - hier können Sie alles finden, was Sie brauchen, um Ihre Außenleuchten zu perfektionieren. Stöbern Sie jetzt durch unser Angebot an Zubehör für Außenleuchten und finden Sie das passende für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Bewegungsmelder",
-                        "text": "Mit <a href=\"/kategorie/bewegungsmelder/\" title=\"Bewegungsmelder\">Bewegungsmelder</a>n können Sie Ihre Beleuchtung automatisch steuern und somit Energie und Kosten sparen. In unserer Kategorie Bewegungsmelder finden Sie eine große Auswahl an verschiedenen Bewegungsmeldern, die sich für den Einsatz im Außen- und Innenbereich eignen. Ob kabellos oder mit Kabel, für den Innen- oder Außeneinsatz - wir haben für jeden Bedarf den passenden Bewegungsmelder. Stöbern Sie jetzt durch unser Angebot und finden Sie den idealen Bewegungsmelder für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Weitere Smarte Leuchten",
-                        "text": "In der Kategorie <a href=\"/kategorie/weitere-smarte-leuchten/\" title=\"Weitere Smarte Leuchten\">Weitere Smarte Leuchten</a> finden Sie eine große Auswahl an verschiedenen smarten Leuchten. Hier finden Sie Leuchten, die Sie bequem per App oder Sprachbefehl steuern können. Ob Sie eine bestimmte Farbe einstellen oder die Helligkeit regeln möchten - mit den smarten Leuchten in dieser Kategorie haben Sie volle Kontrolle über Ihre Beleuchtung. Entdecken Sie jetzt unser Angebot an weiteren smarten Leuchten und finden Sie die perfekte Lösung für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Solarleuchten - energiesparende Beleuchtung für drinnen und draußen",
-                        "text": "Erleben Sie die Vorteile von Solarleuchten in Ihrem Zuhause. Diese energiesparenden Leuchten nutzen die Kraft der Sonne, um Ihren Garten, Ihre Terrasse und Ihr Haus zu beleuchten. Ob Sie nach einer dekorativen Beleuchtung suchen oder nach einer praktischen Lösung für die Beleuchtung Ihres Gartens, Solarleuchten bieten eine einfache und umweltfreundliche Lösung. Entdecken Sie unser breites Angebot an Solarleuchten und finden Sie die perfekte Lösung für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Solar-Deko - dekorative Beleuchtung für Ihren Garten",
-                        "text": "Verleihen Sie Ihrem Garten eine besondere Note mit Solar-Deko. Diese dekorativen Leuchten nutzen die Kraft der Sonne, um Ihren Garten zu erleuchten. Ob Sie nach einer dekorativen Beleuchtung für Ihren Weg suchen oder nach einer praktischen Lösung für Ihre Terrasse, Solar-Deko bietet eine große Auswahl an Optionen. Entdecken Sie unser Sortiment an Solar-Deko und finden Sie die perfekte Lösung für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Gartenstrahler - praktische Beleuchtung für Ihren Garten",
-                        "text": "Sorgen Sie für eine perfekte Beleuchtung Ihres Gartens mit Gartenstrahlern. Diese praktischen Leuchten sind ideal für die Beleuchtung von Gehwegen, Terrassen und Gärten. Ob Sie nach einer dekorativen Lösung suchen oder nach einer praktischen Lösung für die Beleuchtung Ihres Gartens, Gartenstrahler bieten eine breite Auswahl an Optionen. Entdecken Sie unser Sortiment an Gartenstrahlern und finden Sie die perfekte Lösung für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Solar-Lichterketten - Licht für jeden Anlass",
-                        "text": "Erleben Sie das besondere Flair von Solar-Lichterketten in Ihrem Garten oder auf Ihrer Terrasse. Die lichtdurchflutete Atmosphäre sorgt für eine gemütliche Stimmung und eignet sich perfekt für jeden Anlass. Entdecken Sie jetzt das breite Angebot an Solar-Lichterketten in unserem Online-Shop und finden Sie Ihre persönliche Lieblingskette."
-                    },
-                    {
-                        "title": "Außen-Dekoleuchten - Leuchtende Highlights im Freien",
-                        "text": "Geben Sie Ihrem Garten oder Ihrer Terrasse eine besondere Note mit Außen-Dekoleuchten. Diese Leuchten sind nicht nur praktisch, sondern setzen auch optische Akzente im Freien. Entdecken Sie jetzt unser vielfältiges Angebot an Außen-Dekoleuchten und finden Sie die perfekte Beleuchtung für Ihre Outdoor-Oase."
-                    },
-                    {
-                        "title": "LED-Panels - Hell und energieeffizient",
-                        "text": "Erleuchten Sie Ihr Zuhause mit LED-Panels von relamp.de. Diese modernen Leuchten sind nicht nur besonders hell, sondern auch sehr energieeffizient. Entdecken Sie jetzt unser breites Angebot an LED-Panels und finden Sie die perfekte Beleuchtung für jeden Raum. Überzeugen Sie sich von der hohen Qualität und der langlebigen Haltbarkeit unserer LED-Panels."
-                    },
-                    {
-                        "title": "Bodeneinbaustrahler",
-                        "text": "<a href=\"/kategorie/bodeneinbaustrahler/\" title=\"Bodeneinbaustrahler\">Bodeneinbaustrahler</a> sind eine tolle Möglichkeit, um Räume mit Licht zu gestalten. Diese Leuchten werden direkt in den Boden eingebaut und bieten eine gleichmäßige Beleuchtung. Sie eignen sich besonders gut für den Einsatz im Wohnzimmer, Esszimmer oder Flur. Auf unserer Website finden Sie eine große Auswahl an Bodeneinbaustrahlern, die Sie nach Ihren individuellen Bedürfnissen auswählen können."
-                    },
-                    {
-                        "title": "Leuchtmittel",
-                        "text": "<a href=\"/kategorie/leuchtmittel/\" title=\"Leuchtmittel\">Leuchtmittel</a> sind ein wichtiger Bestandteil jeder Lampe. Sie sorgen für das Licht, das wir benötigen. Bei uns finden Sie eine breite Auswahl an Leuchtmitteln, die Sie nach Ihren Bedürfnissen auswählen können. Ob LED-Leuchtmittel, Energiesparleuchtmittel oder Glühlampen - bei uns finden Sie das passende Leuchtmittel für jede Lampe."
-                    },
-                    {
-                        "title": "LED-Leuchtmittel",
-                        "text": "<a href=\"/kategorie/led-leuchtmittel/\" title=\"LED-Leuchtmittel\">LED-Leuchtmittel</a> sind eine besonders energieeffiziente und langlebige Art von Leuchtmitteln. Sie sind ideal für den Einsatz in Lampen und Leuchten. Auf unserer Website finden Sie eine breite Auswahl an LED-Leuchtmitteln in verschiedenen Größen, Farben und Leistungen. Überzeugen Sie sich selbst von den Vorteilen der LED-Leuchtmittel."
-                    },
-                    {
-                        "title": "E27 LED",
-                        "text": "Entdecken Sie bei unserem Online-Shop eine große Auswahl an <a href=\"/kategorie/e27-led/\" title=\"E27 LED\">E27 LED</a>-Leuchtmitteln. Unsere E27 LED-Leuchtmittel sind energiesparend, langlebig und haben eine hohe Lichtqualität. Wir bieten eine breite Palette an Farbtemperaturen und Leistungen, um jedem Bedarf gerecht zu werden. Überzeugen Sie sich selbst und erleuchten Sie Ihr Zuhause mit den besten E27 LED-Leuchtmitteln auf dem Markt."
-                    },
-                    {
-                        "title": "Deckenleuchten",
-                        "text": "Unser Online-Shop bietet eine breite Palette an <a href=\"/kategorie/deckenleuchten/\" title=\"Deckenleuchten\">Deckenleuchten</a>, um jedem Stil und Bedarf gerecht zu werden. Wählen Sie aus verschiedenen Designs, Farben und Größen. Ob Sie eine moderne oder klassische Atmosphäre schaffen möchten, bei uns finden Sie die passende Deckenleuchte. Verleihen Sie Ihrem Zuhause das gewisse Extra mit einer hochwertigen Deckenleuchte von unserem Online-Shop."
-                    },
-                    {
-                        "title": "Arbeitsleuchten",
-                        "text": "Unsere <a href=\"/kategorie/arbeitsleuchten/\" title=\"Arbeitsleuchten\">Arbeitsleuchten</a> sorgen für eine optimale Ausleuchtung bei der Arbeit. Ob im Büro, in der Werkstatt oder im Haushalt - mit einer hochwertigen Arbeitsleuchte sind Sie bestens ausgestattet. Wir bieten eine breite Palette an Designs, Farben und Größen, um jedem Bedarf gerecht zu werden. Überzeugen Sie sich selbst und bestellen Sie jetzt Ihre neue Arbeitsleuchte bei unserem Online-Shop."
-                    },
-                    {
-                        "title": "Feuchtraumleuchten",
-                        "text": "<a href=\"/kategorie/feuchtraumleuchten/\" title=\"Feuchtraumleuchten\">Feuchtraumleuchten</a> sind eine wichtige Lichtquelle in feuchten Räumen wie Bädern, Duschen und Küchen. Sie sind besonders robust und wasserdicht, um eine sichere und zuverlässige Beleuchtung in diesen Bereichen zu gewährleisten. In unserem Online-Shop bieten wir eine breite Auswahl an Feuchtraumleuchten in verschiedenen Stilen und Größen an, damit Sie die perfekte Beleuchtung für Ihr Zuhause finden können."
-                    },
-                    {
-                        "title": "Badlampen",
-                        "text": "<a href=\"/kategorie/badlampen/\" title=\"Badlampen\">Badlampen</a> bieten eine angenehme und stilvolle Beleuchtung für Ihr Badezimmer. Sie können eine Vielzahl von Funktionen wie Dimmfähigkeit und Energiesparmodi haben und sind in verschiedenen Designs erhältlich. Unser Online-Shop bietet eine große Auswahl an Badlampen, von zeitlosen Klassikern bis hin zu modernen Designs, damit Sie die perfekte Beleuchtung für Ihr Badezimmer finden können."
-                    },
-                    {
-                        "title": "Bad-Deckenleuchten",
-                        "text": "<a href=\"/kategorie/bad-deckenleuchten/\" title=\"Bad-Deckenleuchten\">Bad-Deckenleuchten</a> sind eine großartige Möglichkeit, Ihr Badezimmer zu beleuchten. Sie können einfach an der Decke montiert werden und bieten eine gleichmäßige Beleuchtung im gesamten Raum. In unserem Online-Shop finden Sie eine große Auswahl an Bad-Deckenleuchten in verschiedenen Stilen und Größen, von zeitlosen Klassikern bis hin zu modernen Designs, damit Sie die perfekte Beleuchtung für Ihr Badezimmer finden können."
-                    },
-                    {
-                        "title": "Spiegelleuchten",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/spiegelleuchten/\" title=\"Spiegelleuchten\">Spiegelleuchten</a> bieten wir Ihnen eine breite Auswahl an Leuchten für Ihr Badezimmer oder Ihren Schminktisch. Von schlichten und modernen Designs bis hin zu ausgefallenen und stilvollen Leuchten finden Sie bei uns genau das, was Sie suchen. Alle Leuchten sind speziell für den Einsatz im Badezimmer entwickelt und garantieren Ihnen eine optimale Beleuchtung. Entdecken Sie jetzt unser Angebot an Spiegelleuchten."
-                    },
-                    {
-                        "title": "Solar-Wegeleuchten",
-                        "text": "Erleuchten Sie Ihre Wege und Gartenbereiche mit unseren <a href=\"/kategorie/solar-wegeleuchten/\" title=\"Solar-Wegeleuchten\">Solar-Wegeleuchten</a>. Dank der Solartechnologie sind diese Leuchten besonders energieeffizient und umweltfreundlich. Mit unseren Solar-Wegeleuchten können Sie Ihren Außenbereich ganz einfach und kostengünstig beleuchten. Wählen Sie aus einer Vielzahl an Designs und Farben, um Ihren Garten oder Ihre Terrassenbereiche aufzulockern. Entdecken Sie jetzt unser Angebot an Solar-Wegeleuchten."
-                    },
-                    {
-                        "title": "Außenwandleuchten",
-                        "text": "Mit unseren <a href=\"/kategorie/aussenwandleuchten/\" title=\"Aussenwandleuchten\">Aussenwandleuchten</a> können Sie Ihr Haus oder Ihre Gebäude im Außenbereich optimal beleuchten. Wir bieten Ihnen eine breite Auswahl an Designs und Farben, die sich perfekt an die Architektur Ihres Hauses anpassen. Die Leuchten sind besonders robust und wetterbeständig, sodass Sie lange Freude an ihnen haben werden. Entdecken Sie jetzt unser Angebot an Außenwandleuchten und machen Sie Ihr Haus zu einem Blickfang."
-                    },
-                    {
-                        "title": "Osram Smart+",
-                        "text": "Entdecken Sie die Welt von <a href=\"/kategorie/osram-smart/\" title=\"Osram Smart+\">Osram Smart+</a> bei Relamp.de. Wir bieten eine breite Auswahl an Osram Smart+ Leuchten und Leuchtmitteln, die Ihr Zuhause zum Leuchten bringen. Unsere Osram Smart+ Produkte sind einfach zu installieren und bieten eine komfortable Steuerung per App oder Stimme. Stöbern Sie jetzt durch unsere Auswahl und finden Sie die perfekte Osram Smart+ Leuchte für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Osram Smart+ Leuchtmittel",
-                        "text": "Relamp.de bietet eine große Auswahl an <a href=\"/kategorie/osram-smart-leuchtmittel/\" title=\"Osram Smart+ Leuchtmittel\">Osram Smart+ Leuchtmittel</a>n. Diese Leuchtmittel sind kompatibel mit der Osram Smart+ Plattform und bieten eine einfache Steuerung per App oder Stimme. Wählen Sie aus einer Vielzahl von Farben und Lichtstimmungen, um Ihr Zuhause zu beleuchten. Bestellen Sie jetzt Ihr Osram Smart+ Leuchtmittel bei Relamp.de."
-                    },
-                    {
-                        "title": "Kellerleuchten",
-                        "text": "Beleuchten Sie Ihren Keller mit Stil und Funktionalität. Bei Relamp.de finden Sie eine große Auswahl an <a href=\"/kategorie/kellerleuchten/\" title=\"Kellerleuchten\">Kellerleuchten</a>, die Ihren Keller optimal ausleuchten und gleichzeitig eine stilvolle Atmosphäre schaffen. Wählen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Kellerleuchte für Ihr Zuhause zu finden. Bestellen Sie jetzt bei Relamp.de."
-                    },
-                    {
-                        "title": "Solar-Wandleuchten",
-                        "text": "Erleuchten Sie Ihr Zuhause mit den energiesparenden <a href=\"/kategorie/solar-wandleuchten/\" title=\"Solar-Wandleuchten\">Solar-Wandleuchten</a> aus dem Online-Shop relamp.de. Diese Leuchten sind einfach zu installieren und benötigen keine elektrische Verbindung. Mit den Solar-Wandleuchten können Sie Geld sparen und gleichzeitig eine umweltfreundliche Lösung für Ihre Beleuchtungsbedürfnisse finden. Entdecken Sie jetzt unser breites Angebot an Solar-Wandleuchten und finden Sie die perfekte Lösung für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Einbaustrahler",
-                        "text": "Verleihen Sie Ihrem Zuhause eine moderne Note mit den <a href=\"/kategorie/einbaustrahler/\" title=\"Einbaustrahler\">Einbaustrahler</a>n aus dem Online-Shop relamp.de. Diese Leuchten eignen sich perfekt für eine indirekte Beleuchtung und können an Decken, Wänden und Möbeln montiert werden. Mit den Einbaustrahlern können Sie eine warme und einladende Atmosphäre schaffen und gleichzeitig Ihr Zuhause in ein modernes Licht tauchen. Entdecken Sie jetzt unser breites Angebot an Einbaustrahlern und finden Sie die perfekte Lösung für Ihr Zuhause."
-                    },
-                    {
-                        "title": "LED-Leuchtstofflampen",
-                        "text": "Erneuern Sie Ihre Beleuchtung mit den energiesparenden <a href=\"/kategorie/led-leuchtstofflampen/\" title=\"LED-Leuchtstofflampen\">LED-Leuchtstofflampen</a> aus dem Online-Shop relamp.de. Diese Lampen haben eine lange Lebensdauer und sind auch sehr energieeffizient. Mit den LED-Leuchtstofflampen können Sie nicht nur Geld sparen, sondern auch einen Beitrag zum Umweltschutz leisten. Entdecken Sie jetzt unser breites Angebot an LED-Leuchtstofflampen und finden Sie die perfekte Lösung für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Solar-Laternen",
-                        "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/solar-laternen/\" title=\"Solar-Laternen\">Solar-Laternen</a> bei relamp.de. Wir bieten Ihnen eine große Auswahl an stilvollen und praktischen Solar-Laternen, die perfekt für den Einsatz im Freien geeignet sind. Unsere Solar-Laternen sind einfach zu installieren und bieten Ihnen jederzeit eine zuverlässige Beleuchtung. Schauen Sie sich jetzt unser Angebot an und finden Sie die perfekte Solar-Laterne für Ihren Garten oder Ihre Terrasse."
-                    },
-                    {
-                        "title": "Unterbauleuchten",
-                        "text": "Erhellen Sie Ihre Küche oder Ihr Badezimmer mit unseren hochwertigen <a href=\"/kategorie/unterbauleuchten/\" title=\"Unterbauleuchten\">Unterbauleuchten</a>. Bei relamp.de finden Sie eine große Auswahl an stilvollen und praktischen Unterbauleuchten, die perfekt für den Einsatz unter Schränken oder Regalen geeignet sind. Unsere Unterbauleuchten bieten eine effiziente Beleuchtung und sind einfach zu installieren. Schauen Sie sich jetzt unser Angebot an und finden Sie die perfekte Unterbauleuchte für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Lichtleisten",
-                        "text": "Erleben Sie eine völlig neue Art der Beleuchtung mit unseren <a href=\"/kategorie/lichtleisten/\" title=\"Lichtleisten\">Lichtleisten</a>. Bei relamp.de finden Sie eine große Auswahl an hochwertigen Lichtleisten, die perfekt für den Einsatz in Ihrem Zuhause oder in gewerblichen Räumlichkeiten geeignet sind. Unsere Lichtleisten bieten eine effiziente und flexible Beleuchtungslösung. Schauen Sie sich jetzt unser Angebot an und finden Sie die perfekte Lichtleiste für Ihre Beleuchtungsbedürfnisse."
-                    },
-                    {
-                        "title": "Pendelleuchten",
-                        "text": "Relamp bietet eine breite Auswahl an <a href=\"/kategorie/pendelleuchten/\" title=\"Pendelleuchten\">Pendelleuchten</a> für jeden Geschmack und jedes Interieur. Von modernen und minimalistischen Designs bis hin zu klassischen und opulenten Stilen finden Sie bei uns die perfekte Pendelleuchte für Ihr Zuhause. Unsere Pendelleuchten sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Leuchtkraft. Entdecken Sie jetzt unsere große Auswahl an Pendelleuchten und finden Sie die perfekte Leuchte für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Bad-Einbaustrahler",
-                        "text": "Verleihen Sie Ihrem Badezimmer mit den <a href=\"/kategorie/bad-einbaustrahler/\" title=\"Bad-Einbaustrahler\">Bad-Einbaustrahler</a>n von Relamp den letzten Schliff. Diese Leuchten bieten eine hervorragende Beleuchtung für Ihr Badezimmer und sind aus hochwertigen Materialien gefertigt. Unsere Bad-Einbaustrahler sind langlebig und langlebig und eignen sich perfekt für den Einsatz in feuchten Bereichen. Entdecken Sie jetzt unsere große Auswahl an Bad-Einbaustrahlern und finden Sie die perfekte Leuchte für Ihr Badezimmer."
-                    },
-                    {
-                        "title": "Bad-Wandleuchten",
-                        "text": "Erleuchten Sie Ihr Badezimmer mit den <a href=\"/kategorie/bad-wandleuchten/\" title=\"Bad-Wandleuchten\">Bad-Wandleuchten</a> von Relamp. Diese Leuchten bieten eine hervorragende Beleuchtung für Ihr Badezimmer und sind aus hochwertigen Materialien gefertigt. Unsere Bad-Wandleuchten sind langlebig und langlebig und eignen sich perfekt für den Einsatz in feuchten Bereichen. Entdecken Sie jetzt unsere große Auswahl an Bad-Wandleuchten und finden Sie die perfekte Leuchte für Ihr Badezimmer."
-                    },
-                    {
-                        "title": "Wegeleuchten",
-                        "text": "<a href=\"/kategorie/wegeleuchten/\" title=\"Wegeleuchten\">Wegeleuchten</a> von Relamp.de sorgen für sicheres und angenehmes Licht im Außenbereich. Unsere Wegeleuchten sind in verschiedenen Designs erhältlich und bieten eine hohe Funktionalität. Ob als Solarleuchte oder mit Stromanschluss, wir haben für jeden Bedarf die passende Lösung. Überzeugen Sie sich selbst von unserer großen Auswahl an Wegeleuchten."
-                    },
-                    {
-                        "title": "Außenbeleuchtungssysteme",
-                        "text": "Relamp.de bietet Ihnen eine breite Auswahl an <a href=\"/kategorie/aussenbeleuchtungssysteme/\" title=\"Aussenbeleuchtungssysteme\">Aussenbeleuchtungssysteme</a>n. Von Wandleuchten bis hin zu Wegeleuchten finden Sie bei uns alles, was Sie für eine perfekte Außenbeleuchtung benötigen. Unsere Außenbeleuchtungssysteme sind robust, langlebig und dank moderner LED-Technik besonders energieeffizient. Überzeugen Sie sich jetzt von unseren Außenbeleuchtungssystemen."
-                    },
-                    {
-                        "title": "Stromverteilung Außenbereich",
-                        "text": "Mit den Stromverteilungssystemen von Relamp.de können Sie Ihre Außenbeleuchtung sicher und zuverlässig mit Strom versorgen. Unsere Stromverteilungssysteme sind wetterfest und besonders robust, um auch den härtesten Witterungsbedingungen standzuhalten. Überzeugen Sie sich jetzt von unseren Stromverteilungssystemen für den Außenbereich."
-                    },
-                    {
-                        "title": "Sockelleuchten",
-                        "text": "<a href=\"/kategorie/sockelleuchten/\" title=\"Sockelleuchten\">Sockelleuchten</a> sind eine perfekte Beleuchtungslösung für den Innen- und Außenbereich. Sie bieten eine praktische und stilvolle Beleuchtung, die jeden Raum oder Bereich aufwertet. In unserem Online-Shop finden Sie eine breite Auswahl an Sockelleuchten in verschiedenen Designs und Farben, die Ihren Anforderungen gerecht werden. Wählen Sie aus einer Vielzahl von Größen und Formen, um die perfekte Beleuchtung für Ihr Zuhause zu finden."
-                    },
-                    {
-                        "title": "Außenstrahler",
-                        "text": "<a href=\"/kategorie/aussenstrahler/\" title=\"Aussenstrahler\">Aussenstrahler</a> sind eine hervorragende Wahl für die Beleuchtung von Außenbereichen wie Gärten, Terrassen oder Einfahrten. Sie bieten eine kraftvolle und zuverlässige Beleuchtung, die Sie bei jedem Wetter sicher und sichtbar halten wird. In unserem Online-Shop finden Sie eine große Auswahl an Außenstrahlern in verschiedenen Designs und Größen, die für jede Art von Außenbereich geeignet sind. Wählen Sie jetzt den perfekten Außenstrahler für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Hausnummernleuchten",
-                        "text": "<a href=\"/kategorie/hausnummernleuchten/\" title=\"Hausnummernleuchten\">Hausnummernleuchten</a> sind eine wichtige Ergänzung für jedes Zuhause. Sie sorgen dafür, dass Ihre Hausnummer gut sichtbar ist und dass Sie und Ihre Besucher bei jeder Tages- und Nachtzeit sicher nach Hause finden. In unserem Online-Shop finden Sie eine breite Auswahl an Hausnummernleuchten in verschiedenen Designs und Farben, die jedem Stil und jeder Architektur gerecht werden. Wählen Sie jetzt die perfekte Hausnummernleuchte für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Solar-Kugeln",
-                        "text": "<a href=\"/kategorie/solar-kugeln/\" title=\"Solar-Kugeln\">Solar-Kugeln</a> sind eine großartige Möglichkeit, um den Außenbereich Ihres Hauses zu beleuchten. Diese Leuchten nutzen die Kraft der Sonne, um Licht zu erzeugen, und sind somit umweltfreundlich und energiesparend. Entdecken Sie bei Relamp.de eine große Auswahl an Solar-Kugeln in verschiedenen Designs und Größen. Stöbern Sie jetzt durch unsere Produkte und finden Sie die perfekte Beleuchtung für Ihren Außenbereich."
-                    },
-                    {
-                        "title": "Spots",
-                        "text": "<a href=\"/kategorie/spots/\" title=\"Spots\">Spots</a> bieten eine flexible und stilvolle Beleuchtungslösung für Ihr Zuhause. Ob für die Küche, das Wohnzimmer oder das Badezimmer, Spots eignen sich für eine Vielzahl von Räumen. Bei Relamp.de finden Sie eine große Auswahl an Spots in verschiedenen Designs und Größen. Stöbern Sie jetzt durch unser Angebot und finden Sie die perfekten Spots für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Tischlampen",
-                        "text": "<a href=\"/kategorie/tischlampen/\" title=\"Tischlampen\">Tischlampen</a> sind eine stilvolle und praktische Möglichkeit, um einen Raum zu beleuchten. Ob für das Wohnzimmer, das Schlafzimmer oder das Büro, Tischlampen bieten eine flexible Beleuchtungslösung. Bei Relamp.de finden Sie eine große Auswahl an Tischlampen in verschiedenen Designs und Größen. Stöbern Sie jetzt durch unser Angebot und finden Sie die perfekte Tischlampe für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Nachttischlampen",
-                        "text": "<a href=\"/kategorie/nachttischlampen/\" title=\"Nachttischlampen\">Nachttischlampen</a> sind ein unverzichtbares Accessoire für jedes Schlafzimmer. Mit einer Nachttischlampe haben Sie immer eine praktische Lichtquelle in Griffnähe, wenn Sie nachts aufstehen müssen. Bei Relamp.de finden Sie eine große Auswahl an Nachttischlampen in verschiedenen Designs und Farben, um Ihren persönlichen Stil zu unterstreichen."
-                    },
-                    {
-                        "title": "Stehlampen",
-                        "text": "<a href=\"/kategorie/stehlampen/\" title=\"Stehlampen\">Stehlampen</a> sind eine flexible und stilvolle Lichtquelle für jeden Raum. Ob im Wohnzimmer, im Schlafzimmer oder im Büro, Stehlampen bieten Licht genau dort, wo Sie es brauchen. Bei Relamp.de finden Sie eine große Auswahl an Stehlampen in verschiedenen Designs und Farben, um Ihren persönlichen Stil zu unterstreichen."
-                    },
-                    {
-                        "title": "Dreibein-Stehlampen",
-                        "text": "<a href=\"/kategorie/dreibein-stehlampen/\" title=\"Dreibein-Stehlampen\">Dreibein-Stehlampen</a> sind eine moderne und stilvolle Lichtquelle für jeden Raum. Mit ihrem einzigartigen Design und den drei Beinen bieten sie eine auffällige Ergänzung zu jedem Interieur. Bei Relamp.de finden Sie eine große Auswahl an Dreibein-Stehlampen in verschiedenen Designs und Farben, um Ihren persönlichen Stil zu unterstreichen."
-                    },
-                    {
-                        "title": "Design-Tischlampen",
-                        "text": "Entdecken Sie die vielfältige Auswahl an <a href=\"/kategorie/design-tischlampen/\" title=\"Design-Tischlampen\">Design-Tischlampen</a> bei relamp.de. Von modernen und minimalistischen Stilen bis hin zu kreativen und extravaganten Designs - wir haben für jeden Geschmack die passende Tischlampe. Alle Lampen sind aus hochwertigen Materialien hergestellt und sorgen für eine optimale Beleuchtung in Ihrem Zuhause. Stöbern Sie jetzt durch unser Angebot und finden Sie die perfekte Tischlampe für Ihr Interieur."
-                    },
-                    {
-                        "title": "Design-Stehlampen",
-                        "text": "Erleben Sie die Faszination von <a href=\"/kategorie/design-stehlampen/\" title=\"Design-Stehlampen\">Design-Stehlampen</a> bei relamp.de. Unsere Stehlampen zeichnen sich durch ihr zeitloses und elegantes Design aus und sind ein Blickfang in jedem Raum. Ob für das Wohnzimmer, das Esszimmer oder das Schlafzimmer - wir bieten eine große Auswahl an Stehlampen in verschiedenen Größen, Farben und Stilen. Alle Lampen sind aus hochwertigen Materialien hergestellt und sorgen für eine optimale Beleuchtung. Stöbern Sie jetzt durch unser Angebot und finden Sie die perfekte Stehlampe für Ihr Zuhause."
-                    },
-                    {
-                        "title": "E14 LED",
-                        "text": "Bei relamp.de finden Sie eine breite Auswahl an <a href=\"/kategorie/e14-led/\" title=\"E14 LED\">E14 LED</a>-Lampen. Unsere E14 LED-Lampen bieten eine hohe Energieeffizienz und eine lange Lebensdauer. Sie sind einfach zu installieren und sorgen für eine angenehme und effiziente Beleuchtung in Ihrem Zuhause. Wir bieten E14 LED-Lampen in verschiedenen Farben, Größen und Lichtstärken, um jeden Bedarf zu erfüllen. Stöbern Sie jetzt durch unser Angebot und finden Sie die perfekte LED-Lampe für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Schienensysteme",
-                        "text": "<a href=\"/kategorie/schienensysteme/\" title=\"Schienensysteme\">Schienensysteme</a> sind eine flexible und moderne Art, Ihre Lampen zu beleuchten. Mit unseren Schienensystemen können Sie Ihre Beleuchtung ganz einfach an Ihre Bedürfnisse anpassen. Wählen Sie aus einer Vielzahl von Stilen und Designs, um Ihr Zuhause optimal auszuleuchten. Entdecken Sie jetzt unsere Schienensysteme auf https://www.relamp.de/."
-                    },
-                    {
-                        "title": "Kinderzimmerlampen",
-                        "text": "<a href=\"/kategorie/kinderzimmerlampen/\" title=\"Kinderzimmerlampen\">Kinderzimmerlampen</a> sollten nicht nur funktional sein, sondern auch kindgerecht und sicher. Bei uns finden Sie eine grosse Auswahl an Kinderzimmerlampen, die nicht nur die Augen Ihrer Kinder schonen, sondern auch eine angenehme Atmosphäre im Zimmer schaffen. Entdecken Sie jetzt unsere Kinderzimmerlampen auf https://www.relamp.de/."
-                    },
-                    {
-                        "title": "Nachtlichter",
-                        "text": "<a href=\"/kategorie/nachtlichter/\" title=\"Nachtlichter\">Nachtlichter</a> sind eine tolle Möglichkeit, Ihren Kindern ein Gefühl von Sicherheit und Geborgenheit zu vermitteln. Bei uns finden Sie eine grosse Auswahl an Nachtlichtern in verschiedenen Farben und Designs. Wählen Sie das perfekte Nachtlicht für Ihr Kind aus und schaffen Sie eine angenehme Schlafumgebung. Entdecken Sie jetzt unsere Nachtlichter auf https://www.relamp.de/."
-                    },
-                    {
-                        "title": "GU10 LED",
-                        "text": "Entdecken Sie die vielfältige Auswahl an <a href=\"/kategorie/gu10-led/\" title=\"GU10 LED\">GU10 LED</a>-Lampen in unserem Online-Shop. Wir bieten Ihnen eine große Auswahl an LED-Leuchtmitteln mit dem gängigen GU10-Sockel für eine einfache Installation. Die LED-Technologie sorgt für eine hohe Energieeffizienz und lange Lebensdauer. Stöbern Sie durch unser Sortiment und finden Sie die perfekte GU10 LED-Lampe für Ihr Zuhause."
-                    },
-                    {
-                        "title": "LED-Deckenleuchten",
-                        "text": "Suchen Sie nach einer stilvollen Beleuchtungslösung für Ihr Zuhause? Dann sind unsere <a href=\"/kategorie/led-deckenleuchten/\" title=\"LED-Deckenleuchten\">LED-Deckenleuchten</a> genau das Richtige für Sie. Wir bieten eine breite Auswahl an Designs, von modernen und minimalistischen bis hin zu klassischen und eleganten. Alle unsere LED-Deckenleuchten sind energieeffizient und langlebig, was sie zu einer großartigen Wahl für jedes Zuhause macht."
-                    },
-                    {
-                        "title": "Schreibtischlampen",
-                        "text": "Eine gute Beleuchtung ist unerlässlich für ein angenehmes Arbeitsumfeld. Unsere <a href=\"/kategorie/schreibtischlampen/\" title=\"Schreibtischlampen\">Schreibtischlampen</a> bieten eine praktische und stilvolle Lösung. Ob Sie nach einer klassischen Tischlampe oder einer modernen LED-Lösung suchen, wir haben eine große Auswahl an Schreibtischlampen in verschiedenen Stilen und Farben. Stöbern Sie jetzt durch unser Sortiment und finden Sie die perfekte Lampe für Ihren Schreibtisch."
-                    },
-                    {
-                        "title": "LED-Wandleuchten",
-                        "text": "Entdecken Sie unsere vielfältige Auswahl an <a href=\"/kategorie/led-wandleuchten/\" title=\"LED-Wandleuchten\">LED-Wandleuchten</a> bei Relamp.de. Wir bieten moderne und energieeffiziente Wandleuchten, die Ihr Zuhause perfekt in Szene setzen. Ob für das Wohnzimmer, die Küche oder das Schlafzimmer, wir haben die perfekte LED-Wandleuchte für jeden Raum. Schauen Sie sich jetzt unsere große Auswahl an und finden Sie die perfekte Wandleuchte für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Klemmleuchten",
-                        "text": "Erhellen Sie Ihre Räume mit unseren hochwertigen <a href=\"/kategorie/klemmleuchten/\" title=\"Klemmleuchten\">Klemmleuchten</a> bei Relamp.de. Wir bieten eine große Auswahl an Klemmleuchten in verschiedenen Designs und Farben. Ob Sie eine Leuchte für Ihr Büro, Ihr Wohnzimmer oder Ihr Schlafzimmer suchen, bei uns werden Sie fündig. Alle unsere Klemmleuchten sind energiesparend und langlebig, so dass Sie lange Freude daran haben werden."
-                    },
-                    {
-                        "title": "Bogenlampen",
-                        "text": "Setzen Sie Akzente in Ihrem Zuhause mit unseren eleganten <a href=\"/kategorie/bogenlampen/\" title=\"Bogenlampen\">Bogenlampen</a> bei Relamp.de. Wir bieten eine große Auswahl an Bogenlampen in verschiedenen Designs und Farben. Ob Sie eine Leuchte für Ihr Wohnzimmer, Ihr Esszimmer oder Ihr Büro suchen, bei uns werden Sie fündig. Alle unsere Bogenlampen sind energiesparend und langlebig, so dass Sie lange Freude daran haben werden."
-                    },
-                    {
-                        "title": "Leselampen",
-                        "text": "<a href=\"/kategorie/leselampen/\" title=\"Leselampen\">Leselampen</a> sind ein unverzichtbares Accessoire für jedes Bücherwurm. Bei Relamp finden Sie eine große Auswahl an Leselampen in verschiedenen Stilen und Farben, die Ihnen dabei helfen werden, bequem und angenehm zu lesen. Unsere Leselampen sind aus hochwertigen Materialien gefertigt und bieten eine gleichmäßige Beleuchtung, die Ihre Augen nicht belastet. Stöbern Sie jetzt durch unsere Kategorie Leselampen und finden Sie Ihre perfekte Leselampe."
-                    },
-                    {
-                        "title": "Deckenfluter",
-                        "text": "Eine <a href=\"/kategorie/deckenfluter/\" title=\"Deckenfluter\">Deckenfluter</a> ist eine großartige Möglichkeit, einen Raum zu beleuchten, ohne viele kleine Lampen zu verwenden. Bei Relamp finden Sie eine breite Auswahl an Deckenflutern in verschiedenen Größen, Farben und Stilen. Unsere Deckenfluter sind aus hochwertigen Materialien gefertigt und bieten eine gleichmäßige und kräftige Beleuchtung. Stöbern Sie jetzt durch unsere Kategorie Deckenfluter und finden Sie Ihre perfekte Deckenfluter."
-                    },
-                    {
-                        "title": "Außendeckenleuchten",
-                        "text": "<a href=\"/kategorie/aussendeckenleuchten/\" title=\"Aussendeckenleuchten\">Aussendeckenleuchten</a> sind eine wichtige Beleuchtungslösung für den Außenbereich Ihres Hauses. Bei Relamp finden Sie eine große Auswahl an Außendeckenleuchten in verschiedenen Stilen und Farben, die Ihnen dabei helfen werden, Ihren Außenbereich sicher und attraktiv zu beleuchten. Unsere Außendeckenleuchten sind aus robusten Materialien gefertigt und widerstehen den Elementen. Stöbern Sie jetzt durch unsere Kategorie Außendeckenleuchten und finden Sie Ihre perfekte Außendeckenleuchte."
-                    },
-                    {
-                        "title": "Kandelaber & Mastleuchten",
-                        "text": "Entdecken Sie bei uns eine große Auswahl an Kandelabern & Mastleuchten für jeden Anlass. Ob für den Außenbereich oder Innenbereich, wir bieten eine breite Palette an Designs und Stilen. Unsere <a href=\"/kategorie/kandelaber-mastleuchten/\" title=\"Kandelaber & Mastleuchten\">Kandelaber & Mastleuchten</a> sind aus hochwertigen Materialien hergestellt und sorgen für eine angenehme und stilvolle Beleuchtung. Stöbern Sie jetzt durch unser Sortiment und finden Sie die perfekte Leuchte für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Solar-Bodenstrahler",
-                        "text": "Erleuchten Sie Ihren Außenbereich mit unseren <a href=\"/kategorie/solar-bodenstrahler/\" title=\"Solar-Bodenstrahler\">Solar-Bodenstrahler</a>n. Diese umweltfreundlichen Leuchten nutzen die Energie der Sonne, um Ihren Garten oder Terrasse zu beleuchten. Wir bieten eine Vielzahl an Designs und Größen, damit Sie die perfekte Leuchte für Ihre Bedürfnisse finden können. Überzeugen Sie sich jetzt selbst von der Qualität und Funktionalität unserer Solar-Bodenstrahler."
-                    },
-                    {
-                        "title": "LED-Baustrahler",
-                        "text": "Illuminieren Sie Ihre Baustelle oder Ihr Projekt mit unseren <a href=\"/kategorie/led-baustrahler/\" title=\"LED-Baustrahler\">LED-Baustrahler</a>n. Diese robusten und langlebigen Leuchten sorgen für eine helle und effiziente Beleuchtung. Wir bieten eine große Auswahl an Größen und Designs, damit Sie die perfekte Leuchte für Ihre Bedürfnisse finden können. Überzeugen Sie sich jetzt von der Qualität unserer LED-Baustrahler."
-                    },
-                    {
-                        "title": "Osram Smart+ Leuchten",
-                        "text": "Entdecken Sie bei relamp.de die neueste Generation an intelligenter Beleuchtung von Osram. Die <a href=\"/kategorie/osram-smart-leuchten/\" title=\"Osram Smart+ Leuchten\">Osram Smart+ Leuchten</a> ermöglichen es Ihnen, Ihr Zuhause noch komfortabler und energiesparender zu gestalten. Mit der Osram Smart+ App können Sie bequem von überall aus Ihre Beleuchtung steuern und anpassen. Ob für das Wohnzimmer, das Schlafzimmer oder den Flur – mit Osram Smart+ Leuchten haben Sie stets die perfekte Beleuchtung zur Hand."
-                    },
-                    {
-                        "title": "G4 LED",
-                        "text": "Suchen Sie nach hochwertigen <a href=\"/kategorie/g4-led/\" title=\"G4 LED\">G4 LED</a>-Leuchtmitteln? Dann sind Sie bei relamp.de genau richtig. Unsere G4 LED-Leuchtmittel bieten eine hohe Helligkeit und sind besonders energieeffizient. Dank ihrer geringen Größe eignen sie sich ideal für den Einsatz in kleinen Leuchten oder für den Ersatz von Halogenleuchtmitteln. Entdecken Sie jetzt unser breites Sortiment an G4 LED-Leuchtmitteln und finden Sie die passende Lösung für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Leuchtstofflampen",
-                        "text": "Bei relamp.de finden Sie eine große Auswahl an hochwertigen <a href=\"/kategorie/leuchtstofflampen/\" title=\"Leuchtstofflampen\">Leuchtstofflampen</a>. Ob für den Einsatz im Büro oder in der Werkstatt – mit unseren Leuchtstofflampen sorgen Sie für eine gleichmäßige und helle Ausleuchtung. Unsere Leuchtstofflampen zeichnen sich durch ihre hohe Energieeffizienz und lange Lebensdauer aus. Entdecken Sie jetzt unser Sortiment und finden Sie die passende Leuchtstofflampe für Ihre Anforderungen."
-                    },
-                    {
-                        "title": "G9 LED",
-                        "text": "Entdecken Sie bei Relamp.de eine große Auswahl an <a href=\"/kategorie/g9-led/\" title=\"G9 LED\">G9 LED</a>-Leuchtmitteln. Diese Leuchtmittel sind besonders energieeffizient und haben eine lange Lebensdauer, wodurch Sie länger Freude an Ihren Lampen haben werden. Mit den G9 LED-Leuchtmitteln von Relamp.de können Sie Ihre Wohnräume stilvoll und zugleich energiesparend beleuchten."
-                    },
-                    {
-                        "title": "R7S LED",
-                        "text": "Relamp.de bietet Ihnen eine große Auswahl an <a href=\"/kategorie/r7s-led/\" title=\"R7S LED\">R7S LED</a>-Leuchtmitteln. Diese Leuchtmittel sind eine energiesparende Alternative zu den herkömmlichen Leuchtstofflampen und bieten eine hohe Helligkeit. Überzeugen Sie sich selbst von den Vorteilen der R7S LED-Leuchtmittel und bestellen Sie bei Relamp.de."
-                    },
-                    {
-                        "title": "GU5.3 LED",
-                        "text": "Relamp.de bietet Ihnen eine große Auswahl an <a href=\"/kategorie/gu5-3-led/\" title=\"GU5.3 LED\">GU5.3 LED</a>-Leuchtmitteln. Diese Leuchtmittel sind besonders energieeffizient und haben eine lange Lebensdauer, wodurch Sie länger Freude an Ihren Lampen haben werden. Überzeugen Sie sich von den Vorteilen der GU5.3 LED-Leuchtmittel und bestellen Sie jetzt bei Relamp.de."
-                    },
-                    {
-                        "title": "Weitere Smarte Leuchtmittel",
-                        "text": "Entdecken Sie eine breite Auswahl an weiteren smarten Leuchtmitteln bei relamp.de. Wir bieten Ihnen eine große Auswahl an innovativen Leuchtmitteln, die Sie per App oder Sprachsteuerung steuern können. Stöbern Sie durch unsere Produkte und finden Sie die perfekte Lösung für Ihr Zuhause. Jedes Leuchtmittel ist mit modernster Technologie ausgestattet und bietet eine hervorragende Leuchtkraft und Energieeffizienz."
-                    },
-                    {
-                        "title": "Solar-Hausnummern",
-                        "text": "Geben Sie Ihrem Zuhause einen besonderen Touch mit einer Solar-Hausnummer von relamp.de. Wir bieten eine große Auswahl an stylischen und langlebigen <a href=\"/kategorie/solar-hausnummern/\" title=\"Solar-Hausnummern\">Solar-Hausnummern</a>, die tagsüber von der Sonne aufgeladen werden und nachts automatisch erleuchten. Unsere Solar-Hausnummern sind einfach zu installieren und benötigen keine zusätzlichen Stromkabel. Entdecken Sie jetzt die Vorteile unserer Solar-Hausnummern und geben Sie Ihrem Zuhause einen neuen Look."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Lampen & Leuchten kaufen auf relamp.de",
-            "metaDescription": "Hier erhältlich! | Riesige Auswahl an Lampen & Leuchten | Innen- & Außenleuchten • LED Leuchten • Solar Leuchten • Smart Home Lampen • Deckenleuchten uvm.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Lampen & Leuchten | Unsere Hersteller",
-            "metaDescription": "Top Marken wie: Philips Hue, Osram, AEG, Abus und mehr! | Eine Auflistung unserer Top Hersteller für Lampen & Leuchten auf einen Blick. | Top Qualitätsprodukte",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT - einfach online bestellen",
-        "defaultMetaDescription": "$PRODUKT ist ein hochklassiges Produkt vom Hersteller $HERSTELLER! Entdecken Sie weitere tolle Produkte zum Thema $KATEGORIE. | Alles in unserem Shop!",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "relamp.de",
+  "hostname": "https://www.relamp.de/",
+  "email": "relamp.de@surrealnetworks.io",
+  "organization": "relamp.de",
+  "logoText": "Relamp.de",
+  "title": "Lampen & Leuchten",
+  "subline": "Der Online Shop f\u00fcr eine tolle Atmosph\u00e4re",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "9791427",
+    "1229962",
+    "7067044",
+    "8153421",
+    "9791427",
+    "7949985"
+  ],
+  "winnerProducts": [
+    "4081873",
+    "1938752",
+    "2160844"
+  ],
+  "featuredCategories": [
+    "Philips Hue Leuchtmittel",
+    "Au\u00dfenleuchten",
+    "Philips Hue Leuchtmittel",
+    "Solarleuchten",
+    "Innenleuchten",
+    "Unterbauleuchten"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Lampen & Leuchten",
+    "featureText": "Herzlich willkommen im Shop f\u00fcr Lampen & Leuchten! Immer wieder bekommt Licht & Beleuchtung einen zu geringen Stellenwert bei der Gestaltung des eigenen Zuhauses. Dabei ist Licht das entscheidende Element, um die sch\u00f6nen Dinge richtig darzustellen. Schaffen Sie jetzt eine tolle Atmosph\u00e4re in Ihrem Zuhause! Unser Sortiment bietet Ihnen die passenden Produkte daf\u00fcr. Klicken Sie sich gerne durch unseren gut strukturierten Shop f\u00fcr Leuchtmittel & -systeme f\u00fcr jeden Anwendungsbereich!",
+    "index": {
+      "title": "Lampen & Leuchten kaufen | relamp.de",
+      "metaDescription": "Bei uns die beste Auswahl an Lampen & Leuchten f\u00fcr jeden Anwendungsbereich entdecken | Top Marken wie: Philips Hue, Abus, Osram, AEG uvm. | Bequem online kaufen",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Relamp - Ihrem Online-Shop f\u00fcr Lampen & Leuchten",
+            "text": "Herzlich Willkommen bei Relamp, Ihrem Online-Shop f\u00fcr Lampen & Leuchten. Wir bieten Ihnen eine gro\u00dfe Auswahl an innovativen und hochwertigen Leuchtmitteln f\u00fcr jeden Bedarf. Ob LED-Leuchten, Wandlampen, Innenleuchten, Smart Home Lampen oder Philips Hue - bei uns finden Sie alles, was das Herz begehrt. Auch f\u00fcr den Au\u00dfenbereich haben wir eine breite Auswahl an Au\u00dfenleuchten und Zubeh\u00f6r im Angebot. Entdecken Sie jetzt unsere vielf\u00e4ltige Produktpalette und lassen Sie sich von uns begeistern. Bei Fragen stehen wir Ihnen jederzeit gerne zur Verf\u00fcgung."
+          },
+          {
+            "title": "LED-Leuchten",
+            "text": "Unsere Kategorie <a href=\"/kategorie/led-leuchten/\" title=\"LED-Leuchten\">LED-Leuchten</a> bietet Ihnen eine gro\u00dfe Auswahl an energiesparenden Leuchtmitteln. Diese sind nicht nur umweltfreundlich, sondern auch besonders langlebig und kosteneffizient. Entdecken Sie unsere LED-Leuchten in verschiedenen Farben, Formen und Gr\u00f6\u00dfen und finden Sie genau das, was zu Ihrem Stil passt."
+          },
+          {
+            "title": "LED-Streifen",
+            "text": "Unsere <a href=\"/kategorie/led-streifen/\" title=\"LED-Streifen\">LED-Streifen</a> bieten Ihnen eine flexible M\u00f6glichkeit, Ihr Zuhause zu beleuchten. Sie k\u00f6nnen einfach an die Wand oder Decke angebracht werden und bieten eine gleichm\u00e4\u00dfige und ansprechende Beleuchtung. Mit unseren LED-Streifen k\u00f6nnen Sie auch farbige Akzente setzen und Ihr Zuhause ganz nach Ihren W\u00fcnschen gestalten."
+          },
+          {
+            "title": "Innenleuchten",
+            "text": "Unsere <a href=\"/kategorie/innenleuchten/\" title=\"Innenleuchten\">Innenleuchten</a> bieten Ihnen eine Vielzahl an M\u00f6glichkeiten, Ihr Zuhause zu beleuchten. Von klassisch bis modern, von einfach bis ausgefallen - bei uns finden Sie garantiert die passende Leuchte f\u00fcr Ihr Zuhause. Entdecken Sie unsere Innenleuchten und lassen Sie sich von unserer gro\u00dfen Auswahl inspirieren."
+          },
+          {
+            "title": "Wandlampen bei Relamp",
+            "text": "Relamp bietet eine gro\u00dfe Auswahl an Wandlampen f\u00fcr jeden Einrichtungsstil. Ob Sie nach einer Wandleuchte suchen, die Ihr Zuhause beleuchtet oder eine Leselampe f\u00fcr Ihr Schlafzimmer brauchen, bei uns finden Sie garantiert das richtige Modell. Unsere Wandlampen sind aus hochwertigen Materialien gefertigt und bieten eine lange Lebensdauer. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie die perfekte Wandlampe f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Smart Home Lampen bei Relamp",
+            "text": "Mit den Smart Home Lampen von Relamp bringen Sie Ihr Zuhause ins 21. Jahrhundert. Steuern Sie Ihre Beleuchtung bequem \u00fcber Ihr Smartphone oder Ihre Stimme und schaffen Sie eine Wohlf\u00fchlatmosph\u00e4re. W\u00e4hlen Sie aus einer Vielzahl an Farben und Helligkeiten und passen Sie die Beleuchtung an Ihre Stimmung oder den Anlass an. Entdecken Sie jetzt die Vorteile von Smart Home Lampen und bestellen Sie bei Relamp."
+          },
+          {
+            "title": "Philips Hue bei Relamp",
+            "text": "Relamp bietet eine gro\u00dfe Auswahl an Philips Hue Leuchten und Zubeh\u00f6r. Philips Hue ist ein innovatives Smart Home Beleuchtungssystem, das Ihnen eine vollst\u00e4ndige Steuerung Ihrer Beleuchtung \u00fcber Ihr Smartphone oder Ihre Stimme erm\u00f6glicht. W\u00e4hlen Sie aus einer Vielzahl an Farben und Helligkeiten und passen Sie die Beleuchtung an Ihre Stimmung oder den Anlass an. Entdecken Sie jetzt die Vorteile von Philips Hue und bestellen Sie bei Relamp."
+          },
+          {
+            "title": "Philips Hue Leuchten",
+            "text": "Entdecken Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/philips-hue-leuchten/\" title=\"Philips Hue Leuchten\">Philips Hue Leuchten</a> bei relamp.de. Wir bieten Ihnen eine Vielzahl von Stilen und Designs, die perfekt zu Ihrem Zuhause passen. Von Wandleuchten bis hin zu Tischleuchten und Stehleuchten, bei uns finden Sie alles, was Sie f\u00fcr eine stilvolle Beleuchtung ben\u00f6tigen. Alle Philips Hue Leuchten sind einfach zu installieren und einfach zu bedienen. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t und dem Stil unserer Produkte."
+          },
+          {
+            "title": "Philips Hue Leuchtmittel",
+            "text": "Erleben Sie eine neue Art der Beleuchtung mit <a href=\"/kategorie/philips-hue-leuchtmittel/\" title=\"Philips Hue Leuchtmittel\">Philips Hue Leuchtmittel</a>n. Diese hochwertigen Leuchtmittel bieten eine beeindruckende Farbvielfalt und sind einfach zu installieren. Ob Sie eine warme und gem\u00fctliche Atmosph\u00e4re in Ihrem Wohnzimmer schaffen oder eine k\u00fchle und effiziente Beleuchtung in Ihrem B\u00fcro ben\u00f6tigen, Philips Hue Leuchtmittel bieten Ihnen eine Vielzahl von M\u00f6glichkeiten. Entdecken Sie jetzt unser Sortiment an Philips Hue Leuchtmitteln bei relamp.de."
+          },
+          {
+            "title": "Au\u00dfenleuchten",
+            "text": "Verleihen Sie Ihrem Au\u00dfenbereich eine stilvolle Beleuchtung mit unseren <a href=\"/kategorie/aussenleuchten/\" title=\"Aussenleuchten\">Aussenleuchten</a> bei relamp.de. Wir bieten Ihnen eine gro\u00dfe Auswahl an Wandleuchten, Strahlern und Leuchten f\u00fcr den Garten. Alle unsere Au\u00dfenleuchten sind robust und langlebig und sorgen f\u00fcr eine sichere Beleuchtung rund um Ihr Zuhause. Entdecken Sie jetzt unser Sortiment an Au\u00dfenleuchten und schaffen Sie eine angenehme Atmosph\u00e4re in Ihrem Garten oder auf Ihrer Terrasse."
+          },
+          {
+            "title": "Zubeh\u00f6r f\u00fcr Au\u00dfenleuchten",
+            "text": "Die Kategorie <a href=\"/kategorie/zubehoer-fuer-aussenleuchten/\" title=\"Zubeh\u00f6r f\u00fcr Aussenleuchten\">Zubeh\u00f6r f\u00fcr Aussenleuchten</a> beinhaltet alle wichtigen Accessoires f\u00fcr Ihre Au\u00dfenbeleuchtung. Hier finden Sie alles, was Sie ben\u00f6tigen, um Ihre Au\u00dfenleuchten optimal zu installieren und zu nutzen. Von Befestigungsmaterialien \u00fcber Ersatzteile bis hin zu Verl\u00e4ngerungskabeln - hier k\u00f6nnen Sie alles finden, was Sie brauchen, um Ihre Au\u00dfenleuchten zu perfektionieren. St\u00f6bern Sie jetzt durch unser Angebot an Zubeh\u00f6r f\u00fcr Au\u00dfenleuchten und finden Sie das passende f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Bewegungsmelder",
+            "text": "Mit <a href=\"/kategorie/bewegungsmelder/\" title=\"Bewegungsmelder\">Bewegungsmelder</a>n k\u00f6nnen Sie Ihre Beleuchtung automatisch steuern und somit Energie und Kosten sparen. In unserer Kategorie Bewegungsmelder finden Sie eine gro\u00dfe Auswahl an verschiedenen Bewegungsmeldern, die sich f\u00fcr den Einsatz im Au\u00dfen- und Innenbereich eignen. Ob kabellos oder mit Kabel, f\u00fcr den Innen- oder Au\u00dfeneinsatz - wir haben f\u00fcr jeden Bedarf den passenden Bewegungsmelder. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie den idealen Bewegungsmelder f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Weitere Smarte Leuchten",
+            "text": "In der Kategorie <a href=\"/kategorie/weitere-smarte-leuchten/\" title=\"Weitere Smarte Leuchten\">Weitere Smarte Leuchten</a> finden Sie eine gro\u00dfe Auswahl an verschiedenen smarten Leuchten. Hier finden Sie Leuchten, die Sie bequem per App oder Sprachbefehl steuern k\u00f6nnen. Ob Sie eine bestimmte Farbe einstellen oder die Helligkeit regeln m\u00f6chten - mit den smarten Leuchten in dieser Kategorie haben Sie volle Kontrolle \u00fcber Ihre Beleuchtung. Entdecken Sie jetzt unser Angebot an weiteren smarten Leuchten und finden Sie die perfekte L\u00f6sung f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Solarleuchten - energiesparende Beleuchtung f\u00fcr drinnen und drau\u00dfen",
+            "text": "Erleben Sie die Vorteile von Solarleuchten in Ihrem Zuhause. Diese energiesparenden Leuchten nutzen die Kraft der Sonne, um Ihren Garten, Ihre Terrasse und Ihr Haus zu beleuchten. Ob Sie nach einer dekorativen Beleuchtung suchen oder nach einer praktischen L\u00f6sung f\u00fcr die Beleuchtung Ihres Gartens, Solarleuchten bieten eine einfache und umweltfreundliche L\u00f6sung. Entdecken Sie unser breites Angebot an Solarleuchten und finden Sie die perfekte L\u00f6sung f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Solar-Deko - dekorative Beleuchtung f\u00fcr Ihren Garten",
+            "text": "Verleihen Sie Ihrem Garten eine besondere Note mit Solar-Deko. Diese dekorativen Leuchten nutzen die Kraft der Sonne, um Ihren Garten zu erleuchten. Ob Sie nach einer dekorativen Beleuchtung f\u00fcr Ihren Weg suchen oder nach einer praktischen L\u00f6sung f\u00fcr Ihre Terrasse, Solar-Deko bietet eine gro\u00dfe Auswahl an Optionen. Entdecken Sie unser Sortiment an Solar-Deko und finden Sie die perfekte L\u00f6sung f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Gartenstrahler - praktische Beleuchtung f\u00fcr Ihren Garten",
+            "text": "Sorgen Sie f\u00fcr eine perfekte Beleuchtung Ihres Gartens mit Gartenstrahlern. Diese praktischen Leuchten sind ideal f\u00fcr die Beleuchtung von Gehwegen, Terrassen und G\u00e4rten. Ob Sie nach einer dekorativen L\u00f6sung suchen oder nach einer praktischen L\u00f6sung f\u00fcr die Beleuchtung Ihres Gartens, Gartenstrahler bieten eine breite Auswahl an Optionen. Entdecken Sie unser Sortiment an Gartenstrahlern und finden Sie die perfekte L\u00f6sung f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Solar-Lichterketten - Licht f\u00fcr jeden Anlass",
+            "text": "Erleben Sie das besondere Flair von Solar-Lichterketten in Ihrem Garten oder auf Ihrer Terrasse. Die lichtdurchflutete Atmosph\u00e4re sorgt f\u00fcr eine gem\u00fctliche Stimmung und eignet sich perfekt f\u00fcr jeden Anlass. Entdecken Sie jetzt das breite Angebot an Solar-Lichterketten in unserem Online-Shop und finden Sie Ihre pers\u00f6nliche Lieblingskette."
+          },
+          {
+            "title": "Au\u00dfen-Dekoleuchten - Leuchtende Highlights im Freien",
+            "text": "Geben Sie Ihrem Garten oder Ihrer Terrasse eine besondere Note mit Au\u00dfen-Dekoleuchten. Diese Leuchten sind nicht nur praktisch, sondern setzen auch optische Akzente im Freien. Entdecken Sie jetzt unser vielf\u00e4ltiges Angebot an Au\u00dfen-Dekoleuchten und finden Sie die perfekte Beleuchtung f\u00fcr Ihre Outdoor-Oase."
+          },
+          {
+            "title": "LED-Panels - Hell und energieeffizient",
+            "text": "Erleuchten Sie Ihr Zuhause mit LED-Panels von relamp.de. Diese modernen Leuchten sind nicht nur besonders hell, sondern auch sehr energieeffizient. Entdecken Sie jetzt unser breites Angebot an LED-Panels und finden Sie die perfekte Beleuchtung f\u00fcr jeden Raum. \u00dcberzeugen Sie sich von der hohen Qualit\u00e4t und der langlebigen Haltbarkeit unserer LED-Panels."
+          },
+          {
+            "title": "Bodeneinbaustrahler",
+            "text": "<a href=\"/kategorie/bodeneinbaustrahler/\" title=\"Bodeneinbaustrahler\">Bodeneinbaustrahler</a> sind eine tolle M\u00f6glichkeit, um R\u00e4ume mit Licht zu gestalten. Diese Leuchten werden direkt in den Boden eingebaut und bieten eine gleichm\u00e4\u00dfige Beleuchtung. Sie eignen sich besonders gut f\u00fcr den Einsatz im Wohnzimmer, Esszimmer oder Flur. Auf unserer Website finden Sie eine gro\u00dfe Auswahl an Bodeneinbaustrahlern, die Sie nach Ihren individuellen Bed\u00fcrfnissen ausw\u00e4hlen k\u00f6nnen."
+          },
+          {
+            "title": "Leuchtmittel",
+            "text": "<a href=\"/kategorie/leuchtmittel/\" title=\"Leuchtmittel\">Leuchtmittel</a> sind ein wichtiger Bestandteil jeder Lampe. Sie sorgen f\u00fcr das Licht, das wir ben\u00f6tigen. Bei uns finden Sie eine breite Auswahl an Leuchtmitteln, die Sie nach Ihren Bed\u00fcrfnissen ausw\u00e4hlen k\u00f6nnen. Ob LED-Leuchtmittel, Energiesparleuchtmittel oder Gl\u00fchlampen - bei uns finden Sie das passende Leuchtmittel f\u00fcr jede Lampe."
+          },
+          {
+            "title": "LED-Leuchtmittel",
+            "text": "<a href=\"/kategorie/led-leuchtmittel/\" title=\"LED-Leuchtmittel\">LED-Leuchtmittel</a> sind eine besonders energieeffiziente und langlebige Art von Leuchtmitteln. Sie sind ideal f\u00fcr den Einsatz in Lampen und Leuchten. Auf unserer Website finden Sie eine breite Auswahl an LED-Leuchtmitteln in verschiedenen Gr\u00f6\u00dfen, Farben und Leistungen. \u00dcberzeugen Sie sich selbst von den Vorteilen der LED-Leuchtmittel."
+          },
+          {
+            "title": "E27 LED",
+            "text": "Entdecken Sie bei unserem Online-Shop eine gro\u00dfe Auswahl an <a href=\"/kategorie/e27-led/\" title=\"E27 LED\">E27 LED</a>-Leuchtmitteln. Unsere E27 LED-Leuchtmittel sind energiesparend, langlebig und haben eine hohe Lichtqualit\u00e4t. Wir bieten eine breite Palette an Farbtemperaturen und Leistungen, um jedem Bedarf gerecht zu werden. \u00dcberzeugen Sie sich selbst und erleuchten Sie Ihr Zuhause mit den besten E27 LED-Leuchtmitteln auf dem Markt."
+          },
+          {
+            "title": "Deckenleuchten",
+            "text": "Unser Online-Shop bietet eine breite Palette an <a href=\"/kategorie/deckenleuchten/\" title=\"Deckenleuchten\">Deckenleuchten</a>, um jedem Stil und Bedarf gerecht zu werden. W\u00e4hlen Sie aus verschiedenen Designs, Farben und Gr\u00f6\u00dfen. Ob Sie eine moderne oder klassische Atmosph\u00e4re schaffen m\u00f6chten, bei uns finden Sie die passende Deckenleuchte. Verleihen Sie Ihrem Zuhause das gewisse Extra mit einer hochwertigen Deckenleuchte von unserem Online-Shop."
+          },
+          {
+            "title": "Arbeitsleuchten",
+            "text": "Unsere <a href=\"/kategorie/arbeitsleuchten/\" title=\"Arbeitsleuchten\">Arbeitsleuchten</a> sorgen f\u00fcr eine optimale Ausleuchtung bei der Arbeit. Ob im B\u00fcro, in der Werkstatt oder im Haushalt - mit einer hochwertigen Arbeitsleuchte sind Sie bestens ausgestattet. Wir bieten eine breite Palette an Designs, Farben und Gr\u00f6\u00dfen, um jedem Bedarf gerecht zu werden. \u00dcberzeugen Sie sich selbst und bestellen Sie jetzt Ihre neue Arbeitsleuchte bei unserem Online-Shop."
+          },
+          {
+            "title": "Feuchtraumleuchten",
+            "text": "<a href=\"/kategorie/feuchtraumleuchten/\" title=\"Feuchtraumleuchten\">Feuchtraumleuchten</a> sind eine wichtige Lichtquelle in feuchten R\u00e4umen wie B\u00e4dern, Duschen und K\u00fcchen. Sie sind besonders robust und wasserdicht, um eine sichere und zuverl\u00e4ssige Beleuchtung in diesen Bereichen zu gew\u00e4hrleisten. In unserem Online-Shop bieten wir eine breite Auswahl an Feuchtraumleuchten in verschiedenen Stilen und Gr\u00f6\u00dfen an, damit Sie die perfekte Beleuchtung f\u00fcr Ihr Zuhause finden k\u00f6nnen."
+          },
+          {
+            "title": "Badlampen",
+            "text": "<a href=\"/kategorie/badlampen/\" title=\"Badlampen\">Badlampen</a> bieten eine angenehme und stilvolle Beleuchtung f\u00fcr Ihr Badezimmer. Sie k\u00f6nnen eine Vielzahl von Funktionen wie Dimmf\u00e4higkeit und Energiesparmodi haben und sind in verschiedenen Designs erh\u00e4ltlich. Unser Online-Shop bietet eine gro\u00dfe Auswahl an Badlampen, von zeitlosen Klassikern bis hin zu modernen Designs, damit Sie die perfekte Beleuchtung f\u00fcr Ihr Badezimmer finden k\u00f6nnen."
+          },
+          {
+            "title": "Bad-Deckenleuchten",
+            "text": "<a href=\"/kategorie/bad-deckenleuchten/\" title=\"Bad-Deckenleuchten\">Bad-Deckenleuchten</a> sind eine gro\u00dfartige M\u00f6glichkeit, Ihr Badezimmer zu beleuchten. Sie k\u00f6nnen einfach an der Decke montiert werden und bieten eine gleichm\u00e4\u00dfige Beleuchtung im gesamten Raum. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Bad-Deckenleuchten in verschiedenen Stilen und Gr\u00f6\u00dfen, von zeitlosen Klassikern bis hin zu modernen Designs, damit Sie die perfekte Beleuchtung f\u00fcr Ihr Badezimmer finden k\u00f6nnen."
+          },
+          {
+            "title": "Spiegelleuchten",
+            "text": "In unserer Kategorie <a href=\"/kategorie/spiegelleuchten/\" title=\"Spiegelleuchten\">Spiegelleuchten</a> bieten wir Ihnen eine breite Auswahl an Leuchten f\u00fcr Ihr Badezimmer oder Ihren Schminktisch. Von schlichten und modernen Designs bis hin zu ausgefallenen und stilvollen Leuchten finden Sie bei uns genau das, was Sie suchen. Alle Leuchten sind speziell f\u00fcr den Einsatz im Badezimmer entwickelt und garantieren Ihnen eine optimale Beleuchtung. Entdecken Sie jetzt unser Angebot an Spiegelleuchten."
+          },
+          {
+            "title": "Solar-Wegeleuchten",
+            "text": "Erleuchten Sie Ihre Wege und Gartenbereiche mit unseren <a href=\"/kategorie/solar-wegeleuchten/\" title=\"Solar-Wegeleuchten\">Solar-Wegeleuchten</a>. Dank der Solartechnologie sind diese Leuchten besonders energieeffizient und umweltfreundlich. Mit unseren Solar-Wegeleuchten k\u00f6nnen Sie Ihren Au\u00dfenbereich ganz einfach und kosteng\u00fcnstig beleuchten. W\u00e4hlen Sie aus einer Vielzahl an Designs und Farben, um Ihren Garten oder Ihre Terrassenbereiche aufzulockern. Entdecken Sie jetzt unser Angebot an Solar-Wegeleuchten."
+          },
+          {
+            "title": "Au\u00dfenwandleuchten",
+            "text": "Mit unseren <a href=\"/kategorie/aussenwandleuchten/\" title=\"Aussenwandleuchten\">Aussenwandleuchten</a> k\u00f6nnen Sie Ihr Haus oder Ihre Geb\u00e4ude im Au\u00dfenbereich optimal beleuchten. Wir bieten Ihnen eine breite Auswahl an Designs und Farben, die sich perfekt an die Architektur Ihres Hauses anpassen. Die Leuchten sind besonders robust und wetterbest\u00e4ndig, sodass Sie lange Freude an ihnen haben werden. Entdecken Sie jetzt unser Angebot an Au\u00dfenwandleuchten und machen Sie Ihr Haus zu einem Blickfang."
+          },
+          {
+            "title": "Osram Smart+",
+            "text": "Entdecken Sie die Welt von <a href=\"/kategorie/osram-smart/\" title=\"Osram Smart+\">Osram Smart+</a> bei Relamp.de. Wir bieten eine breite Auswahl an Osram Smart+ Leuchten und Leuchtmitteln, die Ihr Zuhause zum Leuchten bringen. Unsere Osram Smart+ Produkte sind einfach zu installieren und bieten eine komfortable Steuerung per App oder Stimme. St\u00f6bern Sie jetzt durch unsere Auswahl und finden Sie die perfekte Osram Smart+ Leuchte f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Osram Smart+ Leuchtmittel",
+            "text": "Relamp.de bietet eine gro\u00dfe Auswahl an <a href=\"/kategorie/osram-smart-leuchtmittel/\" title=\"Osram Smart+ Leuchtmittel\">Osram Smart+ Leuchtmittel</a>n. Diese Leuchtmittel sind kompatibel mit der Osram Smart+ Plattform und bieten eine einfache Steuerung per App oder Stimme. W\u00e4hlen Sie aus einer Vielzahl von Farben und Lichtstimmungen, um Ihr Zuhause zu beleuchten. Bestellen Sie jetzt Ihr Osram Smart+ Leuchtmittel bei Relamp.de."
+          },
+          {
+            "title": "Kellerleuchten",
+            "text": "Beleuchten Sie Ihren Keller mit Stil und Funktionalit\u00e4t. Bei Relamp.de finden Sie eine gro\u00dfe Auswahl an <a href=\"/kategorie/kellerleuchten/\" title=\"Kellerleuchten\">Kellerleuchten</a>, die Ihren Keller optimal ausleuchten und gleichzeitig eine stilvolle Atmosph\u00e4re schaffen. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um die perfekte Kellerleuchte f\u00fcr Ihr Zuhause zu finden. Bestellen Sie jetzt bei Relamp.de."
+          },
+          {
+            "title": "Solar-Wandleuchten",
+            "text": "Erleuchten Sie Ihr Zuhause mit den energiesparenden <a href=\"/kategorie/solar-wandleuchten/\" title=\"Solar-Wandleuchten\">Solar-Wandleuchten</a> aus dem Online-Shop relamp.de. Diese Leuchten sind einfach zu installieren und ben\u00f6tigen keine elektrische Verbindung. Mit den Solar-Wandleuchten k\u00f6nnen Sie Geld sparen und gleichzeitig eine umweltfreundliche L\u00f6sung f\u00fcr Ihre Beleuchtungsbed\u00fcrfnisse finden. Entdecken Sie jetzt unser breites Angebot an Solar-Wandleuchten und finden Sie die perfekte L\u00f6sung f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Einbaustrahler",
+            "text": "Verleihen Sie Ihrem Zuhause eine moderne Note mit den <a href=\"/kategorie/einbaustrahler/\" title=\"Einbaustrahler\">Einbaustrahler</a>n aus dem Online-Shop relamp.de. Diese Leuchten eignen sich perfekt f\u00fcr eine indirekte Beleuchtung und k\u00f6nnen an Decken, W\u00e4nden und M\u00f6beln montiert werden. Mit den Einbaustrahlern k\u00f6nnen Sie eine warme und einladende Atmosph\u00e4re schaffen und gleichzeitig Ihr Zuhause in ein modernes Licht tauchen. Entdecken Sie jetzt unser breites Angebot an Einbaustrahlern und finden Sie die perfekte L\u00f6sung f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "LED-Leuchtstofflampen",
+            "text": "Erneuern Sie Ihre Beleuchtung mit den energiesparenden <a href=\"/kategorie/led-leuchtstofflampen/\" title=\"LED-Leuchtstofflampen\">LED-Leuchtstofflampen</a> aus dem Online-Shop relamp.de. Diese Lampen haben eine lange Lebensdauer und sind auch sehr energieeffizient. Mit den LED-Leuchtstofflampen k\u00f6nnen Sie nicht nur Geld sparen, sondern auch einen Beitrag zum Umweltschutz leisten. Entdecken Sie jetzt unser breites Angebot an LED-Leuchtstofflampen und finden Sie die perfekte L\u00f6sung f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Solar-Laternen",
+            "text": "Entdecken Sie unser breites Sortiment an <a href=\"/kategorie/solar-laternen/\" title=\"Solar-Laternen\">Solar-Laternen</a> bei relamp.de. Wir bieten Ihnen eine gro\u00dfe Auswahl an stilvollen und praktischen Solar-Laternen, die perfekt f\u00fcr den Einsatz im Freien geeignet sind. Unsere Solar-Laternen sind einfach zu installieren und bieten Ihnen jederzeit eine zuverl\u00e4ssige Beleuchtung. Schauen Sie sich jetzt unser Angebot an und finden Sie die perfekte Solar-Laterne f\u00fcr Ihren Garten oder Ihre Terrasse."
+          },
+          {
+            "title": "Unterbauleuchten",
+            "text": "Erhellen Sie Ihre K\u00fcche oder Ihr Badezimmer mit unseren hochwertigen <a href=\"/kategorie/unterbauleuchten/\" title=\"Unterbauleuchten\">Unterbauleuchten</a>. Bei relamp.de finden Sie eine gro\u00dfe Auswahl an stilvollen und praktischen Unterbauleuchten, die perfekt f\u00fcr den Einsatz unter Schr\u00e4nken oder Regalen geeignet sind. Unsere Unterbauleuchten bieten eine effiziente Beleuchtung und sind einfach zu installieren. Schauen Sie sich jetzt unser Angebot an und finden Sie die perfekte Unterbauleuchte f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Lichtleisten",
+            "text": "Erleben Sie eine v\u00f6llig neue Art der Beleuchtung mit unseren <a href=\"/kategorie/lichtleisten/\" title=\"Lichtleisten\">Lichtleisten</a>. Bei relamp.de finden Sie eine gro\u00dfe Auswahl an hochwertigen Lichtleisten, die perfekt f\u00fcr den Einsatz in Ihrem Zuhause oder in gewerblichen R\u00e4umlichkeiten geeignet sind. Unsere Lichtleisten bieten eine effiziente und flexible Beleuchtungsl\u00f6sung. Schauen Sie sich jetzt unser Angebot an und finden Sie die perfekte Lichtleiste f\u00fcr Ihre Beleuchtungsbed\u00fcrfnisse."
+          },
+          {
+            "title": "Pendelleuchten",
+            "text": "Relamp bietet eine breite Auswahl an <a href=\"/kategorie/pendelleuchten/\" title=\"Pendelleuchten\">Pendelleuchten</a> f\u00fcr jeden Geschmack und jedes Interieur. Von modernen und minimalistischen Designs bis hin zu klassischen und opulenten Stilen finden Sie bei uns die perfekte Pendelleuchte f\u00fcr Ihr Zuhause. Unsere Pendelleuchten sind aus hochwertigen Materialien gefertigt und bieten eine hervorragende Leuchtkraft. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Pendelleuchten und finden Sie die perfekte Leuchte f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Bad-Einbaustrahler",
+            "text": "Verleihen Sie Ihrem Badezimmer mit den <a href=\"/kategorie/bad-einbaustrahler/\" title=\"Bad-Einbaustrahler\">Bad-Einbaustrahler</a>n von Relamp den letzten Schliff. Diese Leuchten bieten eine hervorragende Beleuchtung f\u00fcr Ihr Badezimmer und sind aus hochwertigen Materialien gefertigt. Unsere Bad-Einbaustrahler sind langlebig und langlebig und eignen sich perfekt f\u00fcr den Einsatz in feuchten Bereichen. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Bad-Einbaustrahlern und finden Sie die perfekte Leuchte f\u00fcr Ihr Badezimmer."
+          },
+          {
+            "title": "Bad-Wandleuchten",
+            "text": "Erleuchten Sie Ihr Badezimmer mit den <a href=\"/kategorie/bad-wandleuchten/\" title=\"Bad-Wandleuchten\">Bad-Wandleuchten</a> von Relamp. Diese Leuchten bieten eine hervorragende Beleuchtung f\u00fcr Ihr Badezimmer und sind aus hochwertigen Materialien gefertigt. Unsere Bad-Wandleuchten sind langlebig und langlebig und eignen sich perfekt f\u00fcr den Einsatz in feuchten Bereichen. Entdecken Sie jetzt unsere gro\u00dfe Auswahl an Bad-Wandleuchten und finden Sie die perfekte Leuchte f\u00fcr Ihr Badezimmer."
+          },
+          {
+            "title": "Wegeleuchten",
+            "text": "<a href=\"/kategorie/wegeleuchten/\" title=\"Wegeleuchten\">Wegeleuchten</a> von Relamp.de sorgen f\u00fcr sicheres und angenehmes Licht im Au\u00dfenbereich. Unsere Wegeleuchten sind in verschiedenen Designs erh\u00e4ltlich und bieten eine hohe Funktionalit\u00e4t. Ob als Solarleuchte oder mit Stromanschluss, wir haben f\u00fcr jeden Bedarf die passende L\u00f6sung. \u00dcberzeugen Sie sich selbst von unserer gro\u00dfen Auswahl an Wegeleuchten."
+          },
+          {
+            "title": "Au\u00dfenbeleuchtungssysteme",
+            "text": "Relamp.de bietet Ihnen eine breite Auswahl an <a href=\"/kategorie/aussenbeleuchtungssysteme/\" title=\"Aussenbeleuchtungssysteme\">Aussenbeleuchtungssysteme</a>n. Von Wandleuchten bis hin zu Wegeleuchten finden Sie bei uns alles, was Sie f\u00fcr eine perfekte Au\u00dfenbeleuchtung ben\u00f6tigen. Unsere Au\u00dfenbeleuchtungssysteme sind robust, langlebig und dank moderner LED-Technik besonders energieeffizient. \u00dcberzeugen Sie sich jetzt von unseren Au\u00dfenbeleuchtungssystemen."
+          },
+          {
+            "title": "Stromverteilung Au\u00dfenbereich",
+            "text": "Mit den Stromverteilungssystemen von Relamp.de k\u00f6nnen Sie Ihre Au\u00dfenbeleuchtung sicher und zuverl\u00e4ssig mit Strom versorgen. Unsere Stromverteilungssysteme sind wetterfest und besonders robust, um auch den h\u00e4rtesten Witterungsbedingungen standzuhalten. \u00dcberzeugen Sie sich jetzt von unseren Stromverteilungssystemen f\u00fcr den Au\u00dfenbereich."
+          },
+          {
+            "title": "Sockelleuchten",
+            "text": "<a href=\"/kategorie/sockelleuchten/\" title=\"Sockelleuchten\">Sockelleuchten</a> sind eine perfekte Beleuchtungsl\u00f6sung f\u00fcr den Innen- und Au\u00dfenbereich. Sie bieten eine praktische und stilvolle Beleuchtung, die jeden Raum oder Bereich aufwertet. In unserem Online-Shop finden Sie eine breite Auswahl an Sockelleuchten in verschiedenen Designs und Farben, die Ihren Anforderungen gerecht werden. W\u00e4hlen Sie aus einer Vielzahl von Gr\u00f6\u00dfen und Formen, um die perfekte Beleuchtung f\u00fcr Ihr Zuhause zu finden."
+          },
+          {
+            "title": "Au\u00dfenstrahler",
+            "text": "<a href=\"/kategorie/aussenstrahler/\" title=\"Aussenstrahler\">Aussenstrahler</a> sind eine hervorragende Wahl f\u00fcr die Beleuchtung von Au\u00dfenbereichen wie G\u00e4rten, Terrassen oder Einfahrten. Sie bieten eine kraftvolle und zuverl\u00e4ssige Beleuchtung, die Sie bei jedem Wetter sicher und sichtbar halten wird. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Au\u00dfenstrahlern in verschiedenen Designs und Gr\u00f6\u00dfen, die f\u00fcr jede Art von Au\u00dfenbereich geeignet sind. W\u00e4hlen Sie jetzt den perfekten Au\u00dfenstrahler f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Hausnummernleuchten",
+            "text": "<a href=\"/kategorie/hausnummernleuchten/\" title=\"Hausnummernleuchten\">Hausnummernleuchten</a> sind eine wichtige Erg\u00e4nzung f\u00fcr jedes Zuhause. Sie sorgen daf\u00fcr, dass Ihre Hausnummer gut sichtbar ist und dass Sie und Ihre Besucher bei jeder Tages- und Nachtzeit sicher nach Hause finden. In unserem Online-Shop finden Sie eine breite Auswahl an Hausnummernleuchten in verschiedenen Designs und Farben, die jedem Stil und jeder Architektur gerecht werden. W\u00e4hlen Sie jetzt die perfekte Hausnummernleuchte f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Solar-Kugeln",
+            "text": "<a href=\"/kategorie/solar-kugeln/\" title=\"Solar-Kugeln\">Solar-Kugeln</a> sind eine gro\u00dfartige M\u00f6glichkeit, um den Au\u00dfenbereich Ihres Hauses zu beleuchten. Diese Leuchten nutzen die Kraft der Sonne, um Licht zu erzeugen, und sind somit umweltfreundlich und energiesparend. Entdecken Sie bei Relamp.de eine gro\u00dfe Auswahl an Solar-Kugeln in verschiedenen Designs und Gr\u00f6\u00dfen. St\u00f6bern Sie jetzt durch unsere Produkte und finden Sie die perfekte Beleuchtung f\u00fcr Ihren Au\u00dfenbereich."
+          },
+          {
+            "title": "Spots",
+            "text": "<a href=\"/kategorie/spots/\" title=\"Spots\">Spots</a> bieten eine flexible und stilvolle Beleuchtungsl\u00f6sung f\u00fcr Ihr Zuhause. Ob f\u00fcr die K\u00fcche, das Wohnzimmer oder das Badezimmer, Spots eignen sich f\u00fcr eine Vielzahl von R\u00e4umen. Bei Relamp.de finden Sie eine gro\u00dfe Auswahl an Spots in verschiedenen Designs und Gr\u00f6\u00dfen. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie die perfekten Spots f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Tischlampen",
+            "text": "<a href=\"/kategorie/tischlampen/\" title=\"Tischlampen\">Tischlampen</a> sind eine stilvolle und praktische M\u00f6glichkeit, um einen Raum zu beleuchten. Ob f\u00fcr das Wohnzimmer, das Schlafzimmer oder das B\u00fcro, Tischlampen bieten eine flexible Beleuchtungsl\u00f6sung. Bei Relamp.de finden Sie eine gro\u00dfe Auswahl an Tischlampen in verschiedenen Designs und Gr\u00f6\u00dfen. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie die perfekte Tischlampe f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Nachttischlampen",
+            "text": "<a href=\"/kategorie/nachttischlampen/\" title=\"Nachttischlampen\">Nachttischlampen</a> sind ein unverzichtbares Accessoire f\u00fcr jedes Schlafzimmer. Mit einer Nachttischlampe haben Sie immer eine praktische Lichtquelle in Griffn\u00e4he, wenn Sie nachts aufstehen m\u00fcssen. Bei Relamp.de finden Sie eine gro\u00dfe Auswahl an Nachttischlampen in verschiedenen Designs und Farben, um Ihren pers\u00f6nlichen Stil zu unterstreichen."
+          },
+          {
+            "title": "Stehlampen",
+            "text": "<a href=\"/kategorie/stehlampen/\" title=\"Stehlampen\">Stehlampen</a> sind eine flexible und stilvolle Lichtquelle f\u00fcr jeden Raum. Ob im Wohnzimmer, im Schlafzimmer oder im B\u00fcro, Stehlampen bieten Licht genau dort, wo Sie es brauchen. Bei Relamp.de finden Sie eine gro\u00dfe Auswahl an Stehlampen in verschiedenen Designs und Farben, um Ihren pers\u00f6nlichen Stil zu unterstreichen."
+          },
+          {
+            "title": "Dreibein-Stehlampen",
+            "text": "<a href=\"/kategorie/dreibein-stehlampen/\" title=\"Dreibein-Stehlampen\">Dreibein-Stehlampen</a> sind eine moderne und stilvolle Lichtquelle f\u00fcr jeden Raum. Mit ihrem einzigartigen Design und den drei Beinen bieten sie eine auff\u00e4llige Erg\u00e4nzung zu jedem Interieur. Bei Relamp.de finden Sie eine gro\u00dfe Auswahl an Dreibein-Stehlampen in verschiedenen Designs und Farben, um Ihren pers\u00f6nlichen Stil zu unterstreichen."
+          },
+          {
+            "title": "Design-Tischlampen",
+            "text": "Entdecken Sie die vielf\u00e4ltige Auswahl an <a href=\"/kategorie/design-tischlampen/\" title=\"Design-Tischlampen\">Design-Tischlampen</a> bei relamp.de. Von modernen und minimalistischen Stilen bis hin zu kreativen und extravaganten Designs - wir haben f\u00fcr jeden Geschmack die passende Tischlampe. Alle Lampen sind aus hochwertigen Materialien hergestellt und sorgen f\u00fcr eine optimale Beleuchtung in Ihrem Zuhause. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie die perfekte Tischlampe f\u00fcr Ihr Interieur."
+          },
+          {
+            "title": "Design-Stehlampen",
+            "text": "Erleben Sie die Faszination von <a href=\"/kategorie/design-stehlampen/\" title=\"Design-Stehlampen\">Design-Stehlampen</a> bei relamp.de. Unsere Stehlampen zeichnen sich durch ihr zeitloses und elegantes Design aus und sind ein Blickfang in jedem Raum. Ob f\u00fcr das Wohnzimmer, das Esszimmer oder das Schlafzimmer - wir bieten eine gro\u00dfe Auswahl an Stehlampen in verschiedenen Gr\u00f6\u00dfen, Farben und Stilen. Alle Lampen sind aus hochwertigen Materialien hergestellt und sorgen f\u00fcr eine optimale Beleuchtung. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie die perfekte Stehlampe f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "E14 LED",
+            "text": "Bei relamp.de finden Sie eine breite Auswahl an <a href=\"/kategorie/e14-led/\" title=\"E14 LED\">E14 LED</a>-Lampen. Unsere E14 LED-Lampen bieten eine hohe Energieeffizienz und eine lange Lebensdauer. Sie sind einfach zu installieren und sorgen f\u00fcr eine angenehme und effiziente Beleuchtung in Ihrem Zuhause. Wir bieten E14 LED-Lampen in verschiedenen Farben, Gr\u00f6\u00dfen und Lichtst\u00e4rken, um jeden Bedarf zu erf\u00fcllen. St\u00f6bern Sie jetzt durch unser Angebot und finden Sie die perfekte LED-Lampe f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Schienensysteme",
+            "text": "<a href=\"/kategorie/schienensysteme/\" title=\"Schienensysteme\">Schienensysteme</a> sind eine flexible und moderne Art, Ihre Lampen zu beleuchten. Mit unseren Schienensystemen k\u00f6nnen Sie Ihre Beleuchtung ganz einfach an Ihre Bed\u00fcrfnisse anpassen. W\u00e4hlen Sie aus einer Vielzahl von Stilen und Designs, um Ihr Zuhause optimal auszuleuchten. Entdecken Sie jetzt unsere Schienensysteme auf https://www.relamp.de/."
+          },
+          {
+            "title": "Kinderzimmerlampen",
+            "text": "<a href=\"/kategorie/kinderzimmerlampen/\" title=\"Kinderzimmerlampen\">Kinderzimmerlampen</a> sollten nicht nur funktional sein, sondern auch kindgerecht und sicher. Bei uns finden Sie eine grosse Auswahl an Kinderzimmerlampen, die nicht nur die Augen Ihrer Kinder schonen, sondern auch eine angenehme Atmosph\u00e4re im Zimmer schaffen. Entdecken Sie jetzt unsere Kinderzimmerlampen auf https://www.relamp.de/."
+          },
+          {
+            "title": "Nachtlichter",
+            "text": "<a href=\"/kategorie/nachtlichter/\" title=\"Nachtlichter\">Nachtlichter</a> sind eine tolle M\u00f6glichkeit, Ihren Kindern ein Gef\u00fchl von Sicherheit und Geborgenheit zu vermitteln. Bei uns finden Sie eine grosse Auswahl an Nachtlichtern in verschiedenen Farben und Designs. W\u00e4hlen Sie das perfekte Nachtlicht f\u00fcr Ihr Kind aus und schaffen Sie eine angenehme Schlafumgebung. Entdecken Sie jetzt unsere Nachtlichter auf https://www.relamp.de/."
+          },
+          {
+            "title": "GU10 LED",
+            "text": "Entdecken Sie die vielf\u00e4ltige Auswahl an <a href=\"/kategorie/gu10-led/\" title=\"GU10 LED\">GU10 LED</a>-Lampen in unserem Online-Shop. Wir bieten Ihnen eine gro\u00dfe Auswahl an LED-Leuchtmitteln mit dem g\u00e4ngigen GU10-Sockel f\u00fcr eine einfache Installation. Die LED-Technologie sorgt f\u00fcr eine hohe Energieeffizienz und lange Lebensdauer. St\u00f6bern Sie durch unser Sortiment und finden Sie die perfekte GU10 LED-Lampe f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "LED-Deckenleuchten",
+            "text": "Suchen Sie nach einer stilvollen Beleuchtungsl\u00f6sung f\u00fcr Ihr Zuhause? Dann sind unsere <a href=\"/kategorie/led-deckenleuchten/\" title=\"LED-Deckenleuchten\">LED-Deckenleuchten</a> genau das Richtige f\u00fcr Sie. Wir bieten eine breite Auswahl an Designs, von modernen und minimalistischen bis hin zu klassischen und eleganten. Alle unsere LED-Deckenleuchten sind energieeffizient und langlebig, was sie zu einer gro\u00dfartigen Wahl f\u00fcr jedes Zuhause macht."
+          },
+          {
+            "title": "Schreibtischlampen",
+            "text": "Eine gute Beleuchtung ist unerl\u00e4sslich f\u00fcr ein angenehmes Arbeitsumfeld. Unsere <a href=\"/kategorie/schreibtischlampen/\" title=\"Schreibtischlampen\">Schreibtischlampen</a> bieten eine praktische und stilvolle L\u00f6sung. Ob Sie nach einer klassischen Tischlampe oder einer modernen LED-L\u00f6sung suchen, wir haben eine gro\u00dfe Auswahl an Schreibtischlampen in verschiedenen Stilen und Farben. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie die perfekte Lampe f\u00fcr Ihren Schreibtisch."
+          },
+          {
+            "title": "LED-Wandleuchten",
+            "text": "Entdecken Sie unsere vielf\u00e4ltige Auswahl an <a href=\"/kategorie/led-wandleuchten/\" title=\"LED-Wandleuchten\">LED-Wandleuchten</a> bei Relamp.de. Wir bieten moderne und energieeffiziente Wandleuchten, die Ihr Zuhause perfekt in Szene setzen. Ob f\u00fcr das Wohnzimmer, die K\u00fcche oder das Schlafzimmer, wir haben die perfekte LED-Wandleuchte f\u00fcr jeden Raum. Schauen Sie sich jetzt unsere gro\u00dfe Auswahl an und finden Sie die perfekte Wandleuchte f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Klemmleuchten",
+            "text": "Erhellen Sie Ihre R\u00e4ume mit unseren hochwertigen <a href=\"/kategorie/klemmleuchten/\" title=\"Klemmleuchten\">Klemmleuchten</a> bei Relamp.de. Wir bieten eine gro\u00dfe Auswahl an Klemmleuchten in verschiedenen Designs und Farben. Ob Sie eine Leuchte f\u00fcr Ihr B\u00fcro, Ihr Wohnzimmer oder Ihr Schlafzimmer suchen, bei uns werden Sie f\u00fcndig. Alle unsere Klemmleuchten sind energiesparend und langlebig, so dass Sie lange Freude daran haben werden."
+          },
+          {
+            "title": "Bogenlampen",
+            "text": "Setzen Sie Akzente in Ihrem Zuhause mit unseren eleganten <a href=\"/kategorie/bogenlampen/\" title=\"Bogenlampen\">Bogenlampen</a> bei Relamp.de. Wir bieten eine gro\u00dfe Auswahl an Bogenlampen in verschiedenen Designs und Farben. Ob Sie eine Leuchte f\u00fcr Ihr Wohnzimmer, Ihr Esszimmer oder Ihr B\u00fcro suchen, bei uns werden Sie f\u00fcndig. Alle unsere Bogenlampen sind energiesparend und langlebig, so dass Sie lange Freude daran haben werden."
+          },
+          {
+            "title": "Leselampen",
+            "text": "<a href=\"/kategorie/leselampen/\" title=\"Leselampen\">Leselampen</a> sind ein unverzichtbares Accessoire f\u00fcr jedes B\u00fccherwurm. Bei Relamp finden Sie eine gro\u00dfe Auswahl an Leselampen in verschiedenen Stilen und Farben, die Ihnen dabei helfen werden, bequem und angenehm zu lesen. Unsere Leselampen sind aus hochwertigen Materialien gefertigt und bieten eine gleichm\u00e4\u00dfige Beleuchtung, die Ihre Augen nicht belastet. St\u00f6bern Sie jetzt durch unsere Kategorie Leselampen und finden Sie Ihre perfekte Leselampe."
+          },
+          {
+            "title": "Deckenfluter",
+            "text": "Eine <a href=\"/kategorie/deckenfluter/\" title=\"Deckenfluter\">Deckenfluter</a> ist eine gro\u00dfartige M\u00f6glichkeit, einen Raum zu beleuchten, ohne viele kleine Lampen zu verwenden. Bei Relamp finden Sie eine breite Auswahl an Deckenflutern in verschiedenen Gr\u00f6\u00dfen, Farben und Stilen. Unsere Deckenfluter sind aus hochwertigen Materialien gefertigt und bieten eine gleichm\u00e4\u00dfige und kr\u00e4ftige Beleuchtung. St\u00f6bern Sie jetzt durch unsere Kategorie Deckenfluter und finden Sie Ihre perfekte Deckenfluter."
+          },
+          {
+            "title": "Au\u00dfendeckenleuchten",
+            "text": "<a href=\"/kategorie/aussendeckenleuchten/\" title=\"Aussendeckenleuchten\">Aussendeckenleuchten</a> sind eine wichtige Beleuchtungsl\u00f6sung f\u00fcr den Au\u00dfenbereich Ihres Hauses. Bei Relamp finden Sie eine gro\u00dfe Auswahl an Au\u00dfendeckenleuchten in verschiedenen Stilen und Farben, die Ihnen dabei helfen werden, Ihren Au\u00dfenbereich sicher und attraktiv zu beleuchten. Unsere Au\u00dfendeckenleuchten sind aus robusten Materialien gefertigt und widerstehen den Elementen. St\u00f6bern Sie jetzt durch unsere Kategorie Au\u00dfendeckenleuchten und finden Sie Ihre perfekte Au\u00dfendeckenleuchte."
+          },
+          {
+            "title": "Kandelaber & Mastleuchten",
+            "text": "Entdecken Sie bei uns eine gro\u00dfe Auswahl an Kandelabern & Mastleuchten f\u00fcr jeden Anlass. Ob f\u00fcr den Au\u00dfenbereich oder Innenbereich, wir bieten eine breite Palette an Designs und Stilen. Unsere <a href=\"/kategorie/kandelaber-mastleuchten/\" title=\"Kandelaber & Mastleuchten\">Kandelaber & Mastleuchten</a> sind aus hochwertigen Materialien hergestellt und sorgen f\u00fcr eine angenehme und stilvolle Beleuchtung. St\u00f6bern Sie jetzt durch unser Sortiment und finden Sie die perfekte Leuchte f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Solar-Bodenstrahler",
+            "text": "Erleuchten Sie Ihren Au\u00dfenbereich mit unseren <a href=\"/kategorie/solar-bodenstrahler/\" title=\"Solar-Bodenstrahler\">Solar-Bodenstrahler</a>n. Diese umweltfreundlichen Leuchten nutzen die Energie der Sonne, um Ihren Garten oder Terrasse zu beleuchten. Wir bieten eine Vielzahl an Designs und Gr\u00f6\u00dfen, damit Sie die perfekte Leuchte f\u00fcr Ihre Bed\u00fcrfnisse finden k\u00f6nnen. \u00dcberzeugen Sie sich jetzt selbst von der Qualit\u00e4t und Funktionalit\u00e4t unserer Solar-Bodenstrahler."
+          },
+          {
+            "title": "LED-Baustrahler",
+            "text": "Illuminieren Sie Ihre Baustelle oder Ihr Projekt mit unseren <a href=\"/kategorie/led-baustrahler/\" title=\"LED-Baustrahler\">LED-Baustrahler</a>n. Diese robusten und langlebigen Leuchten sorgen f\u00fcr eine helle und effiziente Beleuchtung. Wir bieten eine gro\u00dfe Auswahl an Gr\u00f6\u00dfen und Designs, damit Sie die perfekte Leuchte f\u00fcr Ihre Bed\u00fcrfnisse finden k\u00f6nnen. \u00dcberzeugen Sie sich jetzt von der Qualit\u00e4t unserer LED-Baustrahler."
+          },
+          {
+            "title": "Osram Smart+ Leuchten",
+            "text": "Entdecken Sie bei relamp.de die neueste Generation an intelligenter Beleuchtung von Osram. Die <a href=\"/kategorie/osram-smart-leuchten/\" title=\"Osram Smart+ Leuchten\">Osram Smart+ Leuchten</a> erm\u00f6glichen es Ihnen, Ihr Zuhause noch komfortabler und energiesparender zu gestalten. Mit der Osram Smart+ App k\u00f6nnen Sie bequem von \u00fcberall aus Ihre Beleuchtung steuern und anpassen. Ob f\u00fcr das Wohnzimmer, das Schlafzimmer oder den Flur \u2013 mit Osram Smart+ Leuchten haben Sie stets die perfekte Beleuchtung zur Hand."
+          },
+          {
+            "title": "G4 LED",
+            "text": "Suchen Sie nach hochwertigen <a href=\"/kategorie/g4-led/\" title=\"G4 LED\">G4 LED</a>-Leuchtmitteln? Dann sind Sie bei relamp.de genau richtig. Unsere G4 LED-Leuchtmittel bieten eine hohe Helligkeit und sind besonders energieeffizient. Dank ihrer geringen Gr\u00f6\u00dfe eignen sie sich ideal f\u00fcr den Einsatz in kleinen Leuchten oder f\u00fcr den Ersatz von Halogenleuchtmitteln. Entdecken Sie jetzt unser breites Sortiment an G4 LED-Leuchtmitteln und finden Sie die passende L\u00f6sung f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Leuchtstofflampen",
+            "text": "Bei relamp.de finden Sie eine gro\u00dfe Auswahl an hochwertigen <a href=\"/kategorie/leuchtstofflampen/\" title=\"Leuchtstofflampen\">Leuchtstofflampen</a>. Ob f\u00fcr den Einsatz im B\u00fcro oder in der Werkstatt \u2013 mit unseren Leuchtstofflampen sorgen Sie f\u00fcr eine gleichm\u00e4\u00dfige und helle Ausleuchtung. Unsere Leuchtstofflampen zeichnen sich durch ihre hohe Energieeffizienz und lange Lebensdauer aus. Entdecken Sie jetzt unser Sortiment und finden Sie die passende Leuchtstofflampe f\u00fcr Ihre Anforderungen."
+          },
+          {
+            "title": "G9 LED",
+            "text": "Entdecken Sie bei Relamp.de eine gro\u00dfe Auswahl an <a href=\"/kategorie/g9-led/\" title=\"G9 LED\">G9 LED</a>-Leuchtmitteln. Diese Leuchtmittel sind besonders energieeffizient und haben eine lange Lebensdauer, wodurch Sie l\u00e4nger Freude an Ihren Lampen haben werden. Mit den G9 LED-Leuchtmitteln von Relamp.de k\u00f6nnen Sie Ihre Wohnr\u00e4ume stilvoll und zugleich energiesparend beleuchten."
+          },
+          {
+            "title": "R7S LED",
+            "text": "Relamp.de bietet Ihnen eine gro\u00dfe Auswahl an <a href=\"/kategorie/r7s-led/\" title=\"R7S LED\">R7S LED</a>-Leuchtmitteln. Diese Leuchtmittel sind eine energiesparende Alternative zu den herk\u00f6mmlichen Leuchtstofflampen und bieten eine hohe Helligkeit. \u00dcberzeugen Sie sich selbst von den Vorteilen der R7S LED-Leuchtmittel und bestellen Sie bei Relamp.de."
+          },
+          {
+            "title": "GU5.3 LED",
+            "text": "Relamp.de bietet Ihnen eine gro\u00dfe Auswahl an <a href=\"/kategorie/gu5-3-led/\" title=\"GU5.3 LED\">GU5.3 LED</a>-Leuchtmitteln. Diese Leuchtmittel sind besonders energieeffizient und haben eine lange Lebensdauer, wodurch Sie l\u00e4nger Freude an Ihren Lampen haben werden. \u00dcberzeugen Sie sich von den Vorteilen der GU5.3 LED-Leuchtmittel und bestellen Sie jetzt bei Relamp.de."
+          },
+          {
+            "title": "Weitere Smarte Leuchtmittel",
+            "text": "Entdecken Sie eine breite Auswahl an weiteren smarten Leuchtmitteln bei relamp.de. Wir bieten Ihnen eine gro\u00dfe Auswahl an innovativen Leuchtmitteln, die Sie per App oder Sprachsteuerung steuern k\u00f6nnen. St\u00f6bern Sie durch unsere Produkte und finden Sie die perfekte L\u00f6sung f\u00fcr Ihr Zuhause. Jedes Leuchtmittel ist mit modernster Technologie ausgestattet und bietet eine hervorragende Leuchtkraft und Energieeffizienz."
+          },
+          {
+            "title": "Solar-Hausnummern",
+            "text": "Geben Sie Ihrem Zuhause einen besonderen Touch mit einer Solar-Hausnummer von relamp.de. Wir bieten eine gro\u00dfe Auswahl an stylischen und langlebigen <a href=\"/kategorie/solar-hausnummern/\" title=\"Solar-Hausnummern\">Solar-Hausnummern</a>, die tags\u00fcber von der Sonne aufgeladen werden und nachts automatisch erleuchten. Unsere Solar-Hausnummern sind einfach zu installieren und ben\u00f6tigen keine zus\u00e4tzlichen Stromkabel. Entdecken Sie jetzt die Vorteile unserer Solar-Hausnummern und geben Sie Ihrem Zuhause einen neuen Look."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "Riesige Auswahl an $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE für jeden Anwendungsbereich! | Finden Sie das passende Produkt für ein schönes Zuhause in unserem Shop! | Bestellen Sie $KATEGORIE einfach Online!",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Lampen & Leuchten kaufen auf relamp.de",
+      "metaDescription": "Hier erh\u00e4ltlich! | Riesige Auswahl an Lampen & Leuchten | Innen- & Au\u00dfenleuchten \u2022 LED Leuchten \u2022 Solar Leuchten \u2022 Smart Home Lampen \u2022 Deckenleuchten uvm.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Immer die richtige Wahl",
-        "defaultMetaDescription": "Entdecken Sie tolle Produkte vom namhaften Hersteller $HERSTELLER. | Top Qualität zum fairen Preis! | Riesige Auswahl & schnelle Lieferung zu Ihnen nach Hause!",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Lampen & Leuchten",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Lampen & Leuchten Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Lampen & Leuchten Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Lampen & Leuchten | Unsere Hersteller",
+      "metaDescription": "Top Marken wie: Philips Hue, Osram, AEG, Abus und mehr! | Eine Auflistung unserer Top Hersteller f\u00fcr Lampen & Leuchten auf einen Blick. | Top Qualit\u00e4tsprodukte",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT - einfach online bestellen",
+    "defaultMetaDescription": "$PRODUKT ist ein hochklassiges Produkt vom Hersteller $HERSTELLER! Entdecken Sie weitere tolle Produkte zum Thema $KATEGORIE. | Alles in unserem Shop!",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "Riesige Auswahl an $KATEGORIE",
+    "defaultMetaDescription": "$KATEGORIE f\u00fcr jeden Anwendungsbereich! | Finden Sie das passende Produkt f\u00fcr ein sch\u00f6nes Zuhause in unserem Shop! | Bestellen Sie $KATEGORIE einfach Online!",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Immer die richtige Wahl",
+    "defaultMetaDescription": "Entdecken Sie tolle Produkte vom namhaften Hersteller $HERSTELLER. | Top Qualit\u00e4t zum fairen Preis! | Riesige Auswahl & schnelle Lieferung zu Ihnen nach Hause!",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Lampen & Leuchten",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Lampen & Leuchten Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Lampen & Leuchten Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
